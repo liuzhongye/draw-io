@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T06:48:50.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SCqDaqVa94TMW2vI5agX" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-08T09:39:42.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JjrRRFoNh07ZzVHd8lum" version="21.6.1" type="github">
   <diagram name="Page-1" id="jlQ3cXgN7aJ13FgP9XYz">
-    <mxGraphModel dx="3728" dy="2325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3249" dy="2058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,11 +337,63 @@
         <mxCell id="SPWMK8qn0EH0Q9EclBWB-123" value="BeanFactory与FactoryBean区别？&lt;br&gt;1.都是用创建对象的&lt;br&gt;2.当使用BeanFactory的时候必须要遵询完整的创建过程，这个过程由spring来管理控制。&lt;br&gt;而FactoryBean只需要调用getObject就可以可以返回具体的对象，整个对象的创建过程是由用户自己来控制的，更加灵活" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-727.5" y="545" width="620" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="SPWMK8qn0EH0Q9EclBWB-126" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;prepareRefresh&lt;/b&gt;()&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.设置spring的启动时间&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.设置关闭和活跃的标志位&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.获取当前环境对象StandEnvironment对象，设置属性&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.设置监听器以及需要发布的事件的集合&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SPWMK8qn0EH0Q9EclBWB-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPWMK8qn0EH0Q9EclBWB-126" target="SPWMK8qn0EH0Q9EclBWB-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPWMK8qn0EH0Q9EclBWB-126" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;prepareRefresh&lt;/b&gt;() -- 准备工作&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.设置容器的启动时间&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.设置关闭和活跃的标志位分别是false和true&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.获取当前环境对象StandEnvironment对象，设置属性&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.设置监听器以及需要发布的事件的集合，默认为空&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1227.5" y="930" width="387.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SPWMK8qn0EH0Q9EclBWB-127" value="org.springframework.context.support.AbstractApplicationContext#refresh&lt;span style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 12pt;&quot;&gt;()&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1090" y="900" width="100" height="30" as="geometry" />
+          <mxGeometry x="-1210" y="900" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SPWMK8qn0EH0Q9EclBWB-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SPWMK8qn0EH0Q9EclBWB-130" target="SPWMK8qn0EH0Q9EclBWB-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPWMK8qn0EH0Q9EclBWB-130" value="&lt;b&gt;obtainFreshBeanFactory&lt;/b&gt;()--创建容器&amp;amp;xml属性加载&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.创建容器对象：DefaultListableBeanFactory&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.加载xml配置文件的属性值到当前工厂中，最重要的就是BeanDefinition&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1236.56" y="1060" width="405.62" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SPWMK8qn0EH0Q9EclBWB-134" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-1450" y="830" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SPWMK8qn0EH0Q9EclBWB-135" value="ApplicationContext applicationContext = new ClassPathXmlApplicationContext(&quot;application-context.xml&quot;);执行流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1410" y="770" width="1390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SPWMK8qn0EH0Q9EclBWB-136" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SPWMK8qn0EH0Q9EclBWB-134" target="SPWMK8qn0EH0Q9EclBWB-135">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1410" y="840" as="sourcePoint" />
+            <mxPoint x="-1360" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SPWMK8qn0EH0Q9EclBWB-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPWMK8qn0EH0Q9EclBWB-139" target="SPWMK8qn0EH0Q9EclBWB-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPWMK8qn0EH0Q9EclBWB-139" value="&lt;b&gt;prepareBeanFactory(beanFactory) - -beanFactory准备工作&lt;/b&gt;&lt;br&gt;1.完成beanFactory的初始化工作，各种set操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="1160" width="413.75" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="SPWMK8qn0EH0Q9EclBWB-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPWMK8qn0EH0Q9EclBWB-143" target="SPWMK8qn0EH0Q9EclBWB-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPWMK8qn0EH0Q9EclBWB-143" value="&lt;b&gt;postProcessBeanFactory(beanFactory);&lt;br&gt;&lt;/b&gt;1.空方法体--为了拓展操作,模板方法模式" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1238.12" y="1240" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SPWMK8qn0EH0Q9EclBWB-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPWMK8qn0EH0Q9EclBWB-146" target="SPWMK8qn0EH0Q9EclBWB-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPWMK8qn0EH0Q9EclBWB-146" value="&lt;b&gt;invokeBeanFactoryPostProcessors(beanFactory)&lt;/b&gt;;--执行BFPP操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1238.12" y="1310" width="408.12" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SPWMK8qn0EH0Q9EclBWB-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SPWMK8qn0EH0Q9EclBWB-152" target="SPWMK8qn0EH0Q9EclBWB-127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1040" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SPWMK8qn0EH0Q9EclBWB-152" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="830" width="207.5" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="SPWMK8qn0EH0Q9EclBWB-157" value="registerBeanPostProcessors(beanFactory);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="1390" width="430" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
