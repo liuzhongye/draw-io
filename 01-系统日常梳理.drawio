@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T11:08:19.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VswjuGGLptl1CA9ZZvw6" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T11:12:42.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TWr1_EjjTyV6qjUgofRb" version="22.1.5" type="github">
   <diagram id="onVwmR5etyYxUQcMz32u" name="第 1 页">
-    <mxGraphModel dx="3783" dy="-36" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
+    <mxGraphModel dx="3403" dy="-238" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2841,7 +2841,7 @@
         <mxCell id="PokejRAmp8vd9UstrvEG-848" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PokejRAmp8vd9UstrvEG-827" target="PokejRAmp8vd9UstrvEG-842">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PokejRAmp8vd9UstrvEG-867" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PokejRAmp8vd9UstrvEG-848">
+        <mxCell id="PokejRAmp8vd9UstrvEG-867" value="一致性hash" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PokejRAmp8vd9UstrvEG-848">
           <mxGeometry x="-0.5953" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2933,7 +2933,7 @@
         <mxCell id="PokejRAmp8vd9UstrvEG-842" value="redis&lt;br&gt;槽位10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-801.89" y="12401" width="55" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="PokejRAmp8vd9UstrvEG-843" value="Redis&lt;br&gt;（2&amp;lt;=KB）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="PokejRAmp8vd9UstrvEG-843" value="Redis&lt;br&gt;（value&amp;lt;=2KB）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-617.64" y="12274" width="109.99" height="97" as="geometry" />
         </mxCell>
         <mxCell id="PokejRAmp8vd9UstrvEG-844" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PokejRAmp8vd9UstrvEG-836" target="PokejRAmp8vd9UstrvEG-843">
