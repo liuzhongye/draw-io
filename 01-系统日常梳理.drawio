@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T12:19:58.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QeYG1rxFEkYkmukl09NF" version="22.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-12T12:22:12.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6klJl3oGjDIkGbhwaVK7" version="22.1.7" type="github" pages="2">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="27783" dy="13937" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -2967,6 +2967,9 @@
           <mxGeometry x="-0.2182" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pM1-hPa835mbRREbWSUc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pM1-hPa835mbRREbWSUc-14" target="pM1-hPa835mbRREbWSUc-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pM1-hPa835mbRREbWSUc-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;参数校验（空，日期，主要用户搜索）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
           <mxGeometry x="990.5" y="343" width="96.5" height="37" as="geometry" />
