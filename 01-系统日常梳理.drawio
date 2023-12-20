@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T07:42:06.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="U7QrpfrJq-OpQUbS2rN9" version="22.1.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-20T08:11:04.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3QqVNqjN45ai8-OAeu3s" version="22.1.11" type="github" pages="4">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="28474" dy="14306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -3535,8 +3535,8 @@
         <mxCell id="KZ25IzTM6wthnhOMp55q-125" value="T程价格抓取某航组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-319" y="127" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-127" value="供应链劣势分析" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-728" y="1952" width="2109" height="619" as="geometry" />
+        <mxCell id="KZ25IzTM6wthnhOMp55q-127" value="中转包劣势分析" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-728" y="1958" width="1732" height="619" as="geometry" />
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-128" value="预处理阶段" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-127">
           <mxGeometry x="24" y="1" width="278" height="617" as="geometry" />
@@ -3563,11 +3563,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KZ25IzTM6wthnhOMp55q-244" value="进入劣势分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KZ25IzTM6wthnhOMp55q-236">
+          <mxGeometry x="-0.4074" y="5" relative="1" as="geometry">
+            <mxPoint x="36" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KZ25IzTM6wthnhOMp55q-245" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KZ25IzTM6wthnhOMp55q-236">
+          <mxGeometry x="-0.4074" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-167" value="Baseprice&lt;br&gt;Q&amp;gt;T" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-128">
           <mxGeometry x="83.5" y="235" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-234" value="是包报价？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-128">
-          <mxGeometry x="83.5" y="360" width="80" height="80" as="geometry" />
+          <mxGeometry x="83.5" y="415" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-129" value="优势分析阶段" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-127">
           <mxGeometry x="302" y="1" width="279" height="618" as="geometry" />
@@ -3582,7 +3592,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-192" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;价格优势&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;一级分类【优势】&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-129">
-          <mxGeometry x="78" y="246" width="140" height="58" as="geometry" />
+          <mxGeometry x="79.5" y="251" width="132" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-193" value="有效优势&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;一级分类【优势】&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;二级分类【T有效优势】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-129">
           <mxGeometry x="78" y="64" width="135" height="58" as="geometry" />
@@ -3602,36 +3612,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-223" value="底价&lt;br&gt;Q&amp;lt;T" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-130">
-          <mxGeometry x="63.5" y="202" width="80" height="80" as="geometry" />
+          <mxGeometry x="57.5" y="293" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KZ25IzTM6wthnhOMp55q-130" source="KZ25IzTM6wthnhOMp55q-226" target="KZ25IzTM6wthnhOMp55q-223">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-226" value="价格追到底" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-130">
-          <mxGeometry x="48" y="312" width="111" height="33" as="geometry" />
+          <mxGeometry x="42" y="403" width="111" height="33" as="geometry" />
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-228" value="追加深度不够" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-130">
-          <mxGeometry x="177" y="221.5" width="85.5" height="41" as="geometry" />
+          <mxGeometry x="171" y="312.5" width="85.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="KZ25IzTM6wthnhOMp55q-312" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="KZ25IzTM6wthnhOMp55q-130" source="KZ25IzTM6wthnhOMp55q-231" target="KZ25IzTM6wthnhOMp55q-311">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-231" value="实时问题分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-130">
-          <mxGeometry x="50" y="135" width="114" height="34" as="geometry" />
+          <mxGeometry x="41" y="233" width="114" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KZ25IzTM6wthnhOMp55q-311" value="老逻辑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-130">
+          <mxGeometry x="42" y="169" width="114" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-135" value="主站分析阶段" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-127">
           <mxGeometry x="858" y="1" width="278" height="617" as="geometry" />
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-239" value="拼接问题分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-135">
-          <mxGeometry x="72" y="564" width="116" height="30" as="geometry" />
+          <mxGeometry x="72" y="558" width="116" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-141" value="主站过滤分析阶段" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-127">
+        <mxCell id="KZ25IzTM6wthnhOMp55q-141" value="过滤分析阶段" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-127">
           <mxGeometry x="1136" y="1" width="278" height="617" as="geometry" />
         </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-142" value="结果阶段" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-127">
-          <mxGeometry x="1415" y="1" width="278" height="617" as="geometry" />
-        </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-147" value="Q的包和拼接优势对比阶段" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-127">
-          <mxGeometry x="1695" width="310" height="617" as="geometry" />
+          <mxGeometry x="1414" y="1" width="310" height="617" as="geometry" />
         </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-149" value="单程包对比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-147">
+        <mxCell id="KZ25IzTM6wthnhOMp55q-149" value="单程包对比" style="whiteSpace=wrap;html=1;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-147">
           <mxGeometry x="25" y="234" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-154" value="拼接比包低" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-147">
@@ -3651,7 +3664,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-161" value="是拼接？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-147">
+        <mxCell id="KZ25IzTM6wthnhOMp55q-161" value="是拼接？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-147">
           <mxGeometry x="135" y="151" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KZ25IzTM6wthnhOMp55q-147" source="KZ25IzTM6wthnhOMp55q-156" target="KZ25IzTM6wthnhOMp55q-161">
@@ -3665,7 +3678,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-163" value="拼接对比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-147">
+        <mxCell id="KZ25IzTM6wthnhOMp55q-163" value="拼接对比" style="whiteSpace=wrap;html=1;" vertex="1" parent="KZ25IzTM6wthnhOMp55q-147">
           <mxGeometry x="211" y="242" width="91" height="44" as="geometry" />
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="KZ25IzTM6wthnhOMp55q-147" source="KZ25IzTM6wthnhOMp55q-161" target="KZ25IzTM6wthnhOMp55q-163">
@@ -3712,8 +3725,7 @@
             <Array as="points">
               <mxPoint x="226" y="162" />
               <mxPoint x="226" y="31" />
-              <mxPoint x="1865" y="31" />
-              <mxPoint x="1865" y="62" />
+              <mxPoint x="1585" y="31" />
             </Array>
           </mxGeometry>
         </mxCell>
