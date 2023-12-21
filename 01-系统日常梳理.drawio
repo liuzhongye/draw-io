@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T09:56:08.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nBlQ4w-9MywYZugNnWBx" version="22.1.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-21T10:48:40.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CyIZd7nj-LUHcUm0FYFM" version="22.1.11" type="github" pages="4">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="27520" dy="13634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -3742,6 +3742,9 @@
         <mxCell id="1oWsIuq8Ol4RtF1x7G56-84" value="按照两段分析x+y的总价" style="rounded=1;whiteSpace=wrap;html=1;" parent="1oWsIuq8Ol4RtF1x7G56-72" vertex="1">
           <mxGeometry x="91" y="429" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="41EQnrlsNLB4K3ciBaxm-76" value="价格追到底" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1oWsIuq8Ol4RtF1x7G56-72">
+          <mxGeometry x="86" y="658" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="1oWsIuq8Ol4RtF1x7G56-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1oWsIuq8Ol4RtF1x7G56-5" target="1oWsIuq8Ol4RtF1x7G56-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -3753,13 +3756,16 @@
         <mxCell id="41EQnrlsNLB4K3ciBaxm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1oWsIuq8Ol4RtF1x7G56-84" target="1oWsIuq8Ol4RtF1x7G56-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="41EQnrlsNLB4K3ciBaxm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1oWsIuq8Ol4RtF1x7G56-5" target="1oWsIuq8Ol4RtF1x7G56-27">
+        <mxCell id="41EQnrlsNLB4K3ciBaxm-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1oWsIuq8Ol4RtF1x7G56-5" target="41EQnrlsNLB4K3ciBaxm-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="41EQnrlsNLB4K3ciBaxm-3" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="41EQnrlsNLB4K3ciBaxm-2">
-          <mxGeometry x="-0.9208" relative="1" as="geometry">
+        <mxCell id="41EQnrlsNLB4K3ciBaxm-78" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="41EQnrlsNLB4K3ciBaxm-77">
+          <mxGeometry x="-0.7072" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="41EQnrlsNLB4K3ciBaxm-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="41EQnrlsNLB4K3ciBaxm-76" target="1oWsIuq8Ol4RtF1x7G56-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
