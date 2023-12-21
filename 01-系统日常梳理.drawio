@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T12:06:10.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BgSh4rCCoCJ0h2GKQxEx" version="22.1.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-21T12:12:57.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3z2RG9O8UbVW-TCYwZY6" version="22.1.11" type="github" pages="4">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="27520" dy="13634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -2920,7 +2920,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RV_q1GDgvZnoU0LOU8Oa" name="02_国际运价">
-    <mxGraphModel dx="1406" dy="1106" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#EDEDED" math="0" shadow="0">
+    <mxGraphModel dx="161" dy="527" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#EDEDED" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2995,14 +2995,52 @@
         <mxCell id="pM1-hPa835mbRREbWSUc-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;booking/主搜&lt;br&gt;回调策略&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
           <mxGeometry x="1350.5" y="410.5" width="66" height="47.5" as="geometry" />
         </mxCell>
+        <mxCell id="xHMZstjsNC8S8frlC2E9-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pM1-hPa835mbRREbWSUc-26" target="xHMZstjsNC8S8frlC2E9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pM1-hPa835mbRREbWSUc-26" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;查&lt;font style=&quot;&quot;&gt;GDS_manage&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="873.75" y="469" width="81.5" height="22" as="geometry" />
+          <mxGeometry x="873.75" y="509" width="81.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="xHMZstjsNC8S8frlC2E9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="xHMZstjsNC8S8frlC2E9-1" target="pM1-hPa835mbRREbWSUc-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHMZstjsNC8S8frlC2E9-1" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;获取pcc和域名的关系&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="509.25" width="105.5" height="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xHMZstjsNC8S8frlC2E9-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xHMZstjsNC8S8frlC2E9-3" target="xHMZstjsNC8S8frlC2E9-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="914.5" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHMZstjsNC8S8frlC2E9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="xHMZstjsNC8S8frlC2E9-3" target="xHMZstjsNC8S8frlC2E9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHMZstjsNC8S8frlC2E9-3" value="运价预搜索" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="859.75" y="607" width="109.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xHMZstjsNC8S8frlC2E9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="xHMZstjsNC8S8frlC2E9-7" target="xHMZstjsNC8S8frlC2E9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHMZstjsNC8S8frlC2E9-7" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;拆分实时请求和缓存请求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="607.5" width="115" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xHMZstjsNC8S8frlC2E9-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHMZstjsNC8S8frlC2E9-12" target="xHMZstjsNC8S8frlC2E9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHMZstjsNC8S8frlC2E9-12" value="遍历" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="859.75" y="715" width="109.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xHMZstjsNC8S8frlC2E9-13" value="是实时搜索？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="874.5" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xHMZstjsNC8S8frlC2E9-15" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;直达av下载&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1011.5" y="659" width="69" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="6JVTdIhID5ugBYZDgm7W" name="03_国际供应链系统">
-    <mxGraphModel dx="1993" dy="1106" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f1f3f4" math="0" shadow="0">
+    <mxGraphModel dx="2314" dy="1140" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f1f3f4" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
