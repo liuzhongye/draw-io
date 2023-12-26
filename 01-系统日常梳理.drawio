@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T11:29:03.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FZFfkOSwiL6YJmy3ltyH" version="22.1.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-26T11:31:57.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="eBzCJjPPIdQjGBGroZx2" version="22.1.11" type="github" pages="4">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="28474" dy="14306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -3717,10 +3717,10 @@
         <mxCell id="kLMqA2tp9C051mfkUAN3-91" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-1244" y="4299" width="49" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="kLMqA2tp9C051mfkUAN3-92" value="二包装问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kLMqA2tp9C051mfkUAN3-92" value="二包装问题&lt;br&gt;平台策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1530" y="4475" width="78" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="kLMqA2tp9C051mfkUAN3-96" value="二 追价问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kLMqA2tp9C051mfkUAN3-96" value="二 追价问题&lt;br&gt;平台策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1530" y="4328.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kLMqA2tp9C051mfkUAN3-97" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
