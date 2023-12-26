@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T03:41:48.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4BaH9VKSnvn9701aPRZj" version="22.1.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-26T03:55:00.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8Gef1F138g37ZQfbDNJf" version="22.1.11" type="github" pages="4">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="28474" dy="14306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -3171,43 +3171,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m4fZSAmIgphS5anoFNMs" name="04_国际中转业务">
-    <mxGraphModel dx="3328" dy="-1478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
+    <mxGraphModel dx="3030" dy="-1637" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KZ25IzTM6wthnhOMp55q-90" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-1332" y="3242" width="20" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-91" value="优势" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1312" y="3228" width="82" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-92" value="劣势" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1314" y="3419" width="82" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-93" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-1228" y="3373.5" width="20" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-95" value="有效优势" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1208" y="3161" width="82" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-97" value="同程" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1414" y="3322.5" width="82" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-98" value="非有效优势" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1208" y="3281" width="82" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-99" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-1230" y="3178" width="20" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-100" value="缺货" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1201" y="3359" width="82" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-101" value="wtt过滤" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1201" y="3422" width="82" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-102" value="主站过滤" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1201" y="3478" width="82" height="29" as="geometry" />
-        </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-103" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="-1332" y="2838" width="20" height="190" as="geometry" />
         </mxCell>
@@ -3222,9 +3189,6 @@
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-107" value="有效优势" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1208" y="2757" width="82" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-108" value="携程" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1414" y="2918.5" width="82" height="29" as="geometry" />
         </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-109" value="非有效优势" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1208" y="2877" width="82" height="29" as="geometry" />
@@ -3241,23 +3205,8 @@
         <mxCell id="KZ25IzTM6wthnhOMp55q-113" value="主站过滤" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1201" y="3075" width="82" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-114" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-1451" y="2934" width="34" height="404" as="geometry" />
-        </mxCell>
         <mxCell id="KZ25IzTM6wthnhOMp55q-116" value="Q与CT&lt;br&gt;比价" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1514" y="3121" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-120" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-1119" y="3433" width="26" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-121" value="1.航司过滤" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1093" y="3425" width="88" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-122" value="筛选过滤" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1092" y="3478" width="90" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="KZ25IzTM6wthnhOMp55q-123" value="。。。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1094" y="3535" width="92" height="24" as="geometry" />
+          <mxGeometry x="-1402" y="2918" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PT9sAhubZQShyzMbiSen-2" value="预处理阶段" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-763" y="2793" width="244" height="791" as="geometry" />
