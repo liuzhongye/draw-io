@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T03:55:00.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8Gef1F138g37ZQfbDNJf" version="22.1.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-26T04:00:38.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="eBMsogiQkLwQIiG7QpF7" version="22.1.11" type="github" pages="4">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="28474" dy="14306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -3171,7 +3171,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m4fZSAmIgphS5anoFNMs" name="04_国际中转业务">
-    <mxGraphModel dx="3030" dy="-1637" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
+    <mxGraphModel dx="2588" dy="-1873" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3250,22 +3250,44 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PT9sAhubZQShyzMbiSen-68" value="低价优势阶段" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="-519" y="2793" width="285" height="791" as="geometry" />
-        </mxCell>
-        <mxCell id="PT9sAhubZQShyzMbiSen-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="PT9sAhubZQShyzMbiSen-68" source="PT9sAhubZQShyzMbiSen-70" target="PT9sAhubZQShyzMbiSen-73" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PT9sAhubZQShyzMbiSen-70" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;有效优势分析&lt;br&gt;大于等于1.5%&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;可配置&lt;/span&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="PT9sAhubZQShyzMbiSen-68" vertex="1">
-          <mxGeometry x="81" y="214" width="125" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="PT9sAhubZQShyzMbiSen-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="PT9sAhubZQShyzMbiSen-68" source="PT9sAhubZQShyzMbiSen-72" target="PT9sAhubZQShyzMbiSen-70" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-519" y="2793" width="291" height="791" as="geometry" />
         </mxCell>
         <mxCell id="PT9sAhubZQShyzMbiSen-72" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;价格优势&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;一级分类【优势】&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="PT9sAhubZQShyzMbiSen-68" vertex="1">
           <mxGeometry x="79.5" y="303" width="132" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="PT9sAhubZQShyzMbiSen-73" value="有效优势&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;一级分类【优势】&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;二级分类【T有效优势】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#050505;" parent="PT9sAhubZQShyzMbiSen-68" vertex="1">
-          <mxGeometry x="78" y="117" width="135" height="58" as="geometry" />
+        <mxCell id="PT9sAhubZQShyzMbiSen-73" value="有效优势价差，（0,1.5倍]&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;一级分类【优势】&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;二级分类【T有效优势】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#050505;" parent="PT9sAhubZQShyzMbiSen-68" vertex="1">
+          <mxGeometry x="71" y="50" width="145" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="kLMqA2tp9C051mfkUAN3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PT9sAhubZQShyzMbiSen-68" source="kLMqA2tp9C051mfkUAN3-19" target="PT9sAhubZQShyzMbiSen-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLMqA2tp9C051mfkUAN3-26" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kLMqA2tp9C051mfkUAN3-23">
+          <mxGeometry x="-0.0685" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLMqA2tp9C051mfkUAN3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="PT9sAhubZQShyzMbiSen-68" source="kLMqA2tp9C051mfkUAN3-19" target="kLMqA2tp9C051mfkUAN3-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLMqA2tp9C051mfkUAN3-27" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kLMqA2tp9C051mfkUAN3-24">
+          <mxGeometry x="0.1064" relative="1" as="geometry">
+            <mxPoint x="8" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLMqA2tp9C051mfkUAN3-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PT9sAhubZQShyzMbiSen-68" source="kLMqA2tp9C051mfkUAN3-19" target="kLMqA2tp9C051mfkUAN3-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLMqA2tp9C051mfkUAN3-19" value="是否是有效优势？" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="PT9sAhubZQShyzMbiSen-68">
+          <mxGeometry x="107" y="214" width="73" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="kLMqA2tp9C051mfkUAN3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.927;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="PT9sAhubZQShyzMbiSen-68" source="PT9sAhubZQShyzMbiSen-72" target="kLMqA2tp9C051mfkUAN3-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLMqA2tp9C051mfkUAN3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PT9sAhubZQShyzMbiSen-68" source="kLMqA2tp9C051mfkUAN3-22" target="PT9sAhubZQShyzMbiSen-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLMqA2tp9C051mfkUAN3-22" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;有效优势分析&lt;br&gt;大于等于1.5%&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;可配置&lt;/span&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PT9sAhubZQShyzMbiSen-68">
+          <mxGeometry x="16" y="204.5" width="44" height="92" as="geometry" />
         </mxCell>
         <mxCell id="PT9sAhubZQShyzMbiSen-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PT9sAhubZQShyzMbiSen-12" target="PT9sAhubZQShyzMbiSen-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
