@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T13:18:42.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sWnlzo1CZ9tYxWKX61xH" version="22.1.12" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-27T13:22:15.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gFT_hahTh7uQTk77YsfU" version="22.1.12" type="github" pages="4">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="28474" dy="14306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -3036,8 +3036,8 @@
         <mxCell id="xHMZstjsNC8S8frlC2E9-15" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;直达av下载&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
           <mxGeometry x="1011.5" y="659" width="69" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="xQrBGMInmvZuvOwRv5oI-1" value="cache模块&lt;br&gt;(携程从各GDS缓存的shopping数据)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="67.5" y="640" width="158" height="75" as="geometry" />
+        <mxCell id="xQrBGMInmvZuvOwRv5oI-1" value="cache模块接口&lt;br&gt;(携程从各GDS缓存的shopping数据)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="67.5" y="656" width="158" height="75" as="geometry" />
         </mxCell>
         <mxCell id="xQrBGMInmvZuvOwRv5oI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xQrBGMInmvZuvOwRv5oI-3" target="xQrBGMInmvZuvOwRv5oI-1">
           <mxGeometry relative="1" as="geometry" />
@@ -3056,6 +3056,21 @@
         </mxCell>
         <mxCell id="xQrBGMInmvZuvOwRv5oI-5" value="1G" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="840" width="57" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xQrBGMInmvZuvOwRv5oI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xQrBGMInmvZuvOwRv5oI-10" target="xQrBGMInmvZuvOwRv5oI-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xQrBGMInmvZuvOwRv5oI-10" value="携程大引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="739" width="93" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="xQrBGMInmvZuvOwRv5oI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xQrBGMInmvZuvOwRv5oI-13" target="xQrBGMInmvZuvOwRv5oI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xQrBGMInmvZuvOwRv5oI-13" value="ATPco平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="433" y="840" width="67" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="xQrBGMInmvZuvOwRv5oI-18" value="ow&amp;amp;rt的接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="401" y="640" width="131" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
