@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T03:25:11.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oktWx_IHlrjnvCyBogLo" version="22.1.12" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-28T07:16:11.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="28aYOMp7Mj_ar9kjwE40" version="22.1.12" type="github" pages="4">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="28474" dy="14306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -2998,7 +2998,7 @@
         <mxCell id="xHMZstjsNC8S8frlC2E9-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pM1-hPa835mbRREbWSUc-26" target="xHMZstjsNC8S8frlC2E9-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pM1-hPa835mbRREbWSUc-26" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;查&lt;font style=&quot;&quot;&gt;GDS_manage&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" parent="1" vertex="1">
+        <mxCell id="pM1-hPa835mbRREbWSUc-26" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;请求GDSmanage&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="873.75" y="509" width="81.5" height="22" as="geometry" />
         </mxCell>
         <mxCell id="xHMZstjsNC8S8frlC2E9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="xHMZstjsNC8S8frlC2E9-1" target="pM1-hPa835mbRREbWSUc-26" edge="1">
@@ -3067,7 +3067,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xQrBGMInmvZuvOwRv5oI-13" value="ATPco平台" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="359" y="840" width="67" height="31" as="geometry" />
+          <mxGeometry x="330" y="839" width="67" height="31" as="geometry" />
         </mxCell>
         <mxCell id="xQrBGMInmvZuvOwRv5oI-18" value="searchInterFare" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="364" y="572.5" width="178" height="78" as="geometry" />
@@ -3083,6 +3083,12 @@
         </mxCell>
         <mxCell id="xQrBGMInmvZuvOwRv5oI-23" value="IBE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="726" width="93" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Yw6aqkVBbHphJ_Vz7PhG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yw6aqkVBbHphJ_Vz7PhG-1" target="xQrBGMInmvZuvOwRv5oI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yw6aqkVBbHphJ_Vz7PhG-1" value="pricing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="403" y="840" width="67" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
