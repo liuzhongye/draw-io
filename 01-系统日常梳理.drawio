@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T09:18:53.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="r-LSsdVTQgvrNBpCKZQ0" version="22.1.17" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-18T09:19:12.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NJLfpQij4f71Bi-hiulL" version="22.1.17" type="github" pages="4">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="28474" dy="14306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -3779,63 +3779,6 @@
         <mxCell id="JwuYS0UcNw5oDWUBuVcG-4" value="&lt;br&gt;（同包）优势：89.19&lt;br&gt;拼接优势：" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1648" y="4132" width="176" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-1587" y="5827" width="13" height="513" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-2" value="一优势" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1574" y="5812" width="97" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-3" value="一劣势" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1574" y="6091" width="55" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-1357" y="5963.5" width="20" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-5" value="二 不是有效优势1.5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1458.5" y="5743" width="107.25" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-6" value="三 是有效优势1.5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1458.5" y="5861" width="112" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-1480.5" y="5760" width="20" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-8" value="三 追到底是有效优势1.5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1301.25" y="5707" width="154.25" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-9" value="三追到底不是有效优势1.5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1301.25" y="5781" width="155.25" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-1350.25" y="5718" width="49" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-11" value="三 追到底是优势" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1326" y="5937" width="96" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-12" value="三 追到底是劣势" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1333.25" y="6067" width="98" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-13" value="四 追到底是有效优势1.5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-1175" y="5898" width="135" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-14" value="四 追到底不是有效优势1.5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1173" y="5975" width="142" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-1227" y="5910" width="49" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-16" value="二包装问题平台加价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1480.5" y="6180" width="116.5" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-17" value="二 追价问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1478.75" y="6009" width="113" height="29.25" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-1512" y="6027" width="26" height="159.5" as="geometry" />
-        </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-21" value="一并列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1569" y="6321" width="55" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="4nro7j-sZ0B0HBTz6HSM-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-929" y="5811" width="13" height="513" as="geometry" />
         </mxCell>
@@ -3851,7 +3794,7 @@
         <mxCell id="4nro7j-sZ0B0HBTz6HSM-27" value="二 不是有效优势1.5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-813" y="5730" width="107.25" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="4nro7j-sZ0B0HBTz6HSM-28" value="三 是有效优势1.5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4nro7j-sZ0B0HBTz6HSM-28" value="二 是有效优势1.5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-813" y="5848" width="112" height="26" as="geometry" />
         </mxCell>
         <mxCell id="4nro7j-sZ0B0HBTz6HSM-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
