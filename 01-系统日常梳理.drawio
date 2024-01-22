@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T07:12:00.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="l31F6sU57QiiyDn73bUE" version="22.1.21" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-22T07:14:41.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wp6zH1yFUPYn_-a0OF-i" version="22.1.21" type="github" pages="4">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="28474" dy="14306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -3819,10 +3819,13 @@
           <mxGeometry x="-822.5" y="6164" width="116.5" height="29" as="geometry" />
         </mxCell>
         <mxCell id="4nro7j-sZ0B0HBTz6HSM-39" value="二 追价问题" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-820.75" y="5993" width="113" height="29.25" as="geometry" />
+          <mxGeometry x="-818.75" y="5988" width="113" height="29.25" as="geometry" />
         </mxCell>
         <mxCell id="4nro7j-sZ0B0HBTz6HSM-40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="-854" y="6011" width="26" height="159.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HHzwfdNzjMzFI0veQ6wi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4nro7j-sZ0B0HBTz6HSM-41" target="HHzwfdNzjMzFI0veQ6wi-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4nro7j-sZ0B0HBTz6HSM-41" value="一并列" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-911" y="6305" width="55" height="25" as="geometry" />
@@ -3832,6 +3835,18 @@
         </mxCell>
         <mxCell id="HHzwfdNzjMzFI0veQ6wi-1" value="三追到底不是有效优势1.5 且减去包装加价也不是" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-656.75" y="5795.5" width="273.75" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HHzwfdNzjMzFI0veQ6wi-4" value="二 QC报价相同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-819" y="6304" width="109.5" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="HHzwfdNzjMzFI0veQ6wi-5" value="三 追到底是有效优势1.5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-673" y="6232" width="148" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="HHzwfdNzjMzFI0veQ6wi-6" value="三 追到底是有效优势1.5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-673" y="6339" width="147" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="HHzwfdNzjMzFI0veQ6wi-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-701" y="6249" width="24" height="110.19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
