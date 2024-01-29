@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T01:15:15.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="v1iW8Fg1TEFnN0LG97Ie" version="23.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-29T01:17:56.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jD7hHgX-xFKNQtsBjYzq" version="23.0.2" type="github" pages="4">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="28474" dy="14306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -3932,6 +3932,9 @@
         </mxCell>
         <mxCell id="d-qXcjVP_eoh9gMt-cZJ-11" value="三携程代运营强加减" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1481" y="4970.19" width="125" height="28.81" as="geometry" />
+        </mxCell>
+        <mxCell id="d-qXcjVP_eoh9gMt-cZJ-12" value="1%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1637" y="4940" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
