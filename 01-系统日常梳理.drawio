@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T01:17:56.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jD7hHgX-xFKNQtsBjYzq" version="23.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-29T01:29:08.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CIRidrIwkqaR05pCLWMt" version="23.0.2" type="github" pages="4">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="28474" dy="14306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -3856,22 +3856,22 @@
           <mxGeometry x="-1535" y="4614.5" width="57" height="191.5" as="geometry" />
         </mxCell>
         <mxCell id="4nro7j-sZ0B0HBTz6HSM-27" value="二 不是有效优势1.5" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1637" y="4416.5" width="107.25" height="34" as="geometry" />
+          <mxGeometry x="-1637" y="4387" width="107.25" height="34" as="geometry" />
         </mxCell>
         <mxCell id="4nro7j-sZ0B0HBTz6HSM-28" value="二 是有效优势1.5" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1637" y="4534.5" width="112" height="26" as="geometry" />
         </mxCell>
         <mxCell id="4nro7j-sZ0B0HBTz6HSM-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-1659" y="4433.5" width="20" height="120" as="geometry" />
+          <mxGeometry x="-1659" y="4406" width="20" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="4nro7j-sZ0B0HBTz6HSM-30" value="追到底是有效优势1.5" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1476" y="4304" width="177.75" height="30.5" as="geometry" />
+          <mxGeometry x="-1481" y="4296" width="177.75" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="4nro7j-sZ0B0HBTz6HSM-31" value="优势追到底不是有效优势1.5但减去包装加价是" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1477" y="4374" width="292" height="33" as="geometry" />
+          <mxGeometry x="-1481" y="4354" width="292" height="33" as="geometry" />
         </mxCell>
         <mxCell id="4nro7j-sZ0B0HBTz6HSM-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="-1529.75" y="4315" width="32.75" height="207" as="geometry" />
+          <mxGeometry x="-1529.75" y="4315" width="34.75" height="181" as="geometry" />
         </mxCell>
         <mxCell id="4nro7j-sZ0B0HBTz6HSM-33" value="三 追到底是有效优势1.5" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1471" y="4600.12" width="158" height="34.38" as="geometry" />
@@ -3898,7 +3898,7 @@
           <mxGeometry x="-1471" y="4668.18" width="300" height="29.32" as="geometry" />
         </mxCell>
         <mxCell id="HHzwfdNzjMzFI0veQ6wi-1" value="优势追到底不是有效优势1.5且减去包装加价也不是，但减去底价的1%是" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1479" y="4442" width="400" height="35" as="geometry" />
+          <mxGeometry x="-1481" y="4412" width="400" height="35" as="geometry" />
         </mxCell>
         <mxCell id="HHzwfdNzjMzFI0veQ6wi-4" value="二 QC报价相同" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1648" y="5166" width="109.5" height="27" as="geometry" />
@@ -3913,7 +3913,7 @@
           <mxGeometry x="-1535" y="5130" width="24" height="110.19" as="geometry" />
         </mxCell>
         <mxCell id="d-qXcjVP_eoh9gMt-cZJ-1" value="追到底不是有效优势1.5且减去包装加价和底价的1%也不是" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1477" y="4507" width="356" height="31" as="geometry" />
+          <mxGeometry x="-1481" y="4478" width="356" height="31" as="geometry" />
         </mxCell>
         <mxCell id="d-qXcjVP_eoh9gMt-cZJ-4" value="三劣势追到底不是有效优势1.5且减去底价的1%也不是" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1472.25" y="4724" width="323.25" height="32" as="geometry" />
