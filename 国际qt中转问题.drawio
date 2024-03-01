@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T10:53:02.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vLBwc0dtAl8HKib5CPx9" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T10:53:56.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="hC2NcQZuItWnPXcQLWdW" version="23.1.8" type="github">
   <diagram name="第 1 页" id="u_vAOpGsMa_A65YqHHI3">
-    <mxGraphModel dx="8372" dy="-2157" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
+    <mxGraphModel dx="6306" dy="-3115" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -776,6 +776,14 @@
         </mxCell>
         <mxCell id="D_FfMdJ6p0i8hThaexkr-1" value="启明星系统" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-4075" y="4275" width="3242" height="755" as="geometry" />
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nK9u0oX0gmOxHQUqsbgI-9" target="87Es38IUuHPzmQBuRoQn-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2891" y="4362" />
+              <mxPoint x="-2891" y="4305" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
