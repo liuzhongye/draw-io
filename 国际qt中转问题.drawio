@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T09:39:56.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="MnB_V1VhSgpd7qEWXPnj" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T10:01:48.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9cTbuHw6CsVchZXf3YWQ" version="23.1.8" type="github">
   <diagram name="第 1 页" id="u_vAOpGsMa_A65YqHHI3">
-    <mxGraphModel dx="5965" dy="-2967" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
+    <mxGraphModel dx="6383" dy="-2894" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -346,7 +346,7 @@
         <mxCell id="xsKbB9Cp7bhb-5KW6WHk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="nK9u0oX0gmOxHQUqsbgI-34" source="xsKbB9Cp7bhb-5KW6WHk-15" target="nK9u0oX0gmOxHQUqsbgI-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xsKbB9Cp7bhb-5KW6WHk-15" value="Q加上营销代金券价格" style="rounded=1;whiteSpace=wrap;html=1;" parent="nK9u0oX0gmOxHQUqsbgI-34" vertex="1">
+        <mxCell id="xsKbB9Cp7bhb-5KW6WHk-15" value="Q销售价&lt;br&gt;加上营销代金券价格" style="rounded=1;whiteSpace=wrap;html=1;" parent="nK9u0oX0gmOxHQUqsbgI-34" vertex="1">
           <mxGeometry x="51" y="53" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nK9u0oX0gmOxHQUqsbgI-74" value="wtt分析阶段" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
@@ -777,8 +777,14 @@
             <mxPoint x="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_FfMdJ6p0i8hThaexkr-1" value="启明星系统" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D_FfMdJ6p0i8hThaexkr-1" value="启明星系统" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3708" y="4274" width="2876" height="755" as="geometry" />
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-1" value="资源缺失&lt;br&gt;是否廉航" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="D_FfMdJ6p0i8hThaexkr-1">
+          <mxGeometry x="451" y="436" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NFIxAgn1HAOQ7gQhV86t-2" target="87Es38IUuHPzmQBuRoQn-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
