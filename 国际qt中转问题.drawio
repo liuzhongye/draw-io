@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T10:34:45.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-K3k5hTs5kglTOL06H73" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T10:38:30.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="quwc5ZfwG-nadXvY0R0K" version="23.1.8" type="github">
   <diagram name="第 1 页" id="u_vAOpGsMa_A65YqHHI3">
-    <mxGraphModel dx="6365" dy="-2967" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
+    <mxGraphModel dx="6386" dy="-3078" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
         <mxCell id="tpdCLN6-d5XbbTeug6M1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="nK9u0oX0gmOxHQUqsbgI-50" source="tpdCLN6-d5XbbTeug6M1-5" target="tpdCLN6-d5XbbTeug6M1-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tpdCLN6-d5XbbTeug6M1-13" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tpdCLN6-d5XbbTeug6M1-9">
+        <mxCell id="tpdCLN6-d5XbbTeug6M1-13" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="tpdCLN6-d5XbbTeug6M1-9">
           <mxGeometry x="-0.5166" relative="1" as="geometry">
             <mxPoint x="-8" y="4" as="offset" />
           </mxGeometry>
@@ -96,7 +96,7 @@
         <mxCell id="tpdCLN6-d5XbbTeug6M1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nK9u0oX0gmOxHQUqsbgI-50" source="tpdCLN6-d5XbbTeug6M1-5" target="tpdCLN6-d5XbbTeug6M1-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tpdCLN6-d5XbbTeug6M1-12" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tpdCLN6-d5XbbTeug6M1-11">
+        <mxCell id="tpdCLN6-d5XbbTeug6M1-12" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="tpdCLN6-d5XbbTeug6M1-11">
           <mxGeometry x="-0.045" y="1" relative="1" as="geometry">
             <mxPoint x="2" y="-8" as="offset" />
           </mxGeometry>
@@ -122,7 +122,7 @@
         <mxCell id="tpdCLN6-d5XbbTeug6M1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.509;entryY=0.107;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nK9u0oX0gmOxHQUqsbgI-50" source="tpdCLN6-d5XbbTeug6M1-7" target="tpdCLN6-d5XbbTeug6M1-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tpdCLN6-d5XbbTeug6M1-18" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tpdCLN6-d5XbbTeug6M1-16">
+        <mxCell id="tpdCLN6-d5XbbTeug6M1-18" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="tpdCLN6-d5XbbTeug6M1-16">
           <mxGeometry x="-0.143" relative="1" as="geometry">
             <mxPoint x="-9" y="-1" as="offset" />
           </mxGeometry>
@@ -503,13 +503,13 @@
         <mxCell id="NFIxAgn1HAOQ7gQhV86t-1" value="复用供应链航组缺失分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="N4iluqh-uy1iXuRI0d6J-1" vertex="1">
           <mxGeometry x="62" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87Es38IUuHPzmQBuRoQn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="N4iluqh-uy1iXuRI0d6J-1" source="NFIxAgn1HAOQ7gQhV86t-2" target="87Es38IUuHPzmQBuRoQn-3" edge="1">
+        <mxCell id="87Es38IUuHPzmQBuRoQn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="N4iluqh-uy1iXuRI0d6J-1" source="NFIxAgn1HAOQ7gQhV86t-2" target="87Es38IUuHPzmQBuRoQn-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NFIxAgn1HAOQ7gQhV86t-2" value="归因主站过滤、报价过滤、运价缺失" style="rounded=1;whiteSpace=wrap;html=1;" parent="N4iluqh-uy1iXuRI0d6J-1" vertex="1">
           <mxGeometry x="62" y="336" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87Es38IUuHPzmQBuRoQn-3" value="资源缺失&lt;br&gt;是否廉航" style="rounded=0;whiteSpace=wrap;html=1;" parent="N4iluqh-uy1iXuRI0d6J-1" vertex="1">
+        <mxCell id="87Es38IUuHPzmQBuRoQn-3" value="资源缺失&lt;br&gt;是否廉航" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="N4iluqh-uy1iXuRI0d6J-1">
           <mxGeometry x="62" y="473" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N4iluqh-uy1iXuRI0d6J-16" value="中转包/拼接 VS 2段直达 处理阶段" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -754,21 +754,79 @@
         <mxCell id="D_FfMdJ6p0i8hThaexkr-1" value="启明星系统" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3968" y="5237" width="2876" height="755" as="geometry" />
         </mxCell>
-        <mxCell id="87Es38IUuHPzmQBuRoQn-5" value="中转包/拼接 VS 2段直达 处理阶段" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="87Es38IUuHPzmQBuRoQn-5" value="中转包/拼接 VS 携程代运营 处理阶段" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-4051" y="4275" width="366" height="753" as="geometry">
             <mxRectangle x="-806" y="3841" width="95" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="87Es38IUuHPzmQBuRoQn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="87Es38IUuHPzmQBuRoQn-5" source="87Es38IUuHPzmQBuRoQn-7" edge="1">
+        <mxCell id="87Es38IUuHPzmQBuRoQn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="87Es38IUuHPzmQBuRoQn-5" source="87Es38IUuHPzmQBuRoQn-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="185" y="107" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="87Es38IUuHPzmQBuRoQn-7" value="请求两段直达&lt;br&gt;筛选中转同航组&lt;br&gt;计算两段价格之和" style="rounded=1;whiteSpace=wrap;html=1;" parent="87Es38IUuHPzmQBuRoQn-5" vertex="1">
+        <mxCell id="87Es38IUuHPzmQBuRoQn-7" value="请求携程代运营&lt;br&gt;接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="87Es38IUuHPzmQBuRoQn-5">
           <mxGeometry x="125" y="29" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="87Es38IUuHPzmQBuRoQn-37" value="记录&lt;br&gt;底层未知&lt;br&gt;不稳定问题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="87Es38IUuHPzmQBuRoQn-5" vertex="1">
-          <mxGeometry x="125" y="689" width="120" height="45" as="geometry" />
+        <mxCell id="87Es38IUuHPzmQBuRoQn-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="87Es38IUuHPzmQBuRoQn-5" source="87Es38IUuHPzmQBuRoQn-39" target="87Es38IUuHPzmQBuRoQn-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-43" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="87Es38IUuHPzmQBuRoQn-42">
+          <mxGeometry x="-0.2308" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-39" value="携程代运营&lt;br&gt;是否有该航组" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="87Es38IUuHPzmQBuRoQn-5">
+          <mxGeometry x="145" y="107" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-41" value="记录为&lt;br&gt;代运营缺失航组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="87Es38IUuHPzmQBuRoQn-5">
+          <mxGeometry x="11" y="177" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="87Es38IUuHPzmQBuRoQn-5" source="87Es38IUuHPzmQBuRoQn-44" target="87Es38IUuHPzmQBuRoQn-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-48" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="87Es38IUuHPzmQBuRoQn-47">
+          <mxGeometry x="-0.4444" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="87Es38IUuHPzmQBuRoQn-5" source="87Es38IUuHPzmQBuRoQn-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="403" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-51" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="87Es38IUuHPzmQBuRoQn-50">
+          <mxGeometry x="-0.0714" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-44" value="携程代运营&lt;br&gt;价格&amp;lt;&lt;br&gt;C价格" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="87Es38IUuHPzmQBuRoQn-5">
+          <mxGeometry x="145" y="239" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.49;entryY=0.071;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="87Es38IUuHPzmQBuRoQn-5" source="87Es38IUuHPzmQBuRoQn-39" target="87Es38IUuHPzmQBuRoQn-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-46" value="记录为&lt;br&gt;代运营缺失低价" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="87Es38IUuHPzmQBuRoQn-5">
+          <mxGeometry x="11" y="319" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="87Es38IUuHPzmQBuRoQn-5" source="87Es38IUuHPzmQBuRoQn-52" target="87Es38IUuHPzmQBuRoQn-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-55" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="87Es38IUuHPzmQBuRoQn-54">
+          <mxGeometry x="-0.2508" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="87Es38IUuHPzmQBuRoQn-5" source="87Es38IUuHPzmQBuRoQn-52" target="87Es38IUuHPzmQBuRoQn-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-52" value="调用wtt&lt;br&gt;是否能报出" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="87Es38IUuHPzmQBuRoQn-5">
+          <mxGeometry x="145" y="401" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-53" value="记录wtt过滤原因" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="87Es38IUuHPzmQBuRoQn-5">
+          <mxGeometry x="11" y="476" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="87Es38IUuHPzmQBuRoQn-56" value="记录携程代运营&lt;br&gt;有优势" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="87Es38IUuHPzmQBuRoQn-5">
+          <mxGeometry x="125" y="549" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
