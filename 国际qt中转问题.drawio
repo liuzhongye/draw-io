@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T03:55:40.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Y2bLfTmXI5IndsmVa0LA" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T06:03:19.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="b9KOKCEwzqHB79XzFKTB" version="23.1.8" type="github">
   <diagram name="第 1 页" id="u_vAOpGsMa_A65YqHHI3">
-    <mxGraphModel dx="5914" dy="-2894" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
+    <mxGraphModel dx="6314" dy="-2894" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -297,8 +297,8 @@
             <mxRectangle x="-806" y="3841" width="95" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9AGe9tt66gaDoblRZoPv-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="N4iluqh-uy1iXuRI0d6J-16" vertex="1">
-          <mxGeometry x="55" y="169" width="120" height="60" as="geometry" />
+        <mxCell id="9AGe9tt66gaDoblRZoPv-1" value="拆分" style="rounded=1;whiteSpace=wrap;html=1;" parent="N4iluqh-uy1iXuRI0d6J-16" vertex="1">
+          <mxGeometry x="49" y="166" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N4iluqh-uy1iXuRI0d6J-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="N4iluqh-uy1iXuRI0d6J-31" target="N4iluqh-uy1iXuRI0d6J-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -399,6 +399,14 @@
         </mxCell>
         <mxCell id="Fc1ScWfCSrpP2nkaMIbw-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Fc1ScWfCSrpP2nkaMIbw-57" target="Fc1ScWfCSrpP2nkaMIbw-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFIxAgn1HAOQ7gQhV86t-4" value="中转包/拼接 VS 携程代运营处理阶段" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3807" y="4275" width="244" height="753" as="geometry">
+            <mxRectangle x="-806" y="3841" width="95" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NFIxAgn1HAOQ7gQhV86t-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NFIxAgn1HAOQ7gQhV86t-4">
+          <mxGeometry x="55" y="169" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
