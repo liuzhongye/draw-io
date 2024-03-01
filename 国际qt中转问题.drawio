@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T07:53:05.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="yBNJWUcW44XMfOjzGhFV" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T07:54:45.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="OALB9T4OT5B7FkzMe03R" version="23.1.8" type="github">
   <diagram name="第 1 页" id="u_vAOpGsMa_A65YqHHI3">
-    <mxGraphModel dx="5322" dy="-3368" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
+    <mxGraphModel dx="5928" dy="-3078" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,6 +195,9 @@
             <mxPoint x="-7" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xsKbB9Cp7bhb-5KW6WHk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="nK9u0oX0gmOxHQUqsbgI-1" source="nK9u0oX0gmOxHQUqsbgI-11" target="xsKbB9Cp7bhb-5KW6WHk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nK9u0oX0gmOxHQUqsbgI-11" value="是同仓 || 廉航" style="rhombus;whiteSpace=wrap;html=1;" parent="nK9u0oX0gmOxHQUqsbgI-1" vertex="1">
           <mxGeometry x="68.75" y="179" width="98" height="36" as="geometry" />
         </mxCell>
@@ -226,6 +229,9 @@
         </mxCell>
         <mxCell id="nK9u0oX0gmOxHQUqsbgI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="nK9u0oX0gmOxHQUqsbgI-1" source="nK9u0oX0gmOxHQUqsbgI-12" target="nK9u0oX0gmOxHQUqsbgI-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xsKbB9Cp7bhb-5KW6WHk-11" value="复用&lt;br&gt;不同仓&lt;br&gt;判断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nK9u0oX0gmOxHQUqsbgI-1">
+          <mxGeometry x="5.75" y="219" width="63" height="44" as="geometry" />
         </mxCell>
         <mxCell id="nK9u0oX0gmOxHQUqsbgI-16" value="basePrice计算阶段" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="-2831" y="4275" width="291" height="753" as="geometry" />
