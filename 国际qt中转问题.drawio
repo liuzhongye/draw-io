@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T07:17:38.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dPyg0iXjxGXtwdVFJaHf" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T07:29:13.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FJ4XJA6EcRg83K-fF3Pl" version="24.0.1" type="github">
   <diagram name="第 1 页" id="u_vAOpGsMa_A65YqHHI3">
     <mxGraphModel dx="6365" dy="-2967" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
@@ -376,7 +376,7 @@
         <mxCell id="CMpfSC7A6ncqSUkJLKif-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="nK9u0oX0gmOxHQUqsbgI-74" source="Fc1ScWfCSrpP2nkaMIbw-117" target="CMpfSC7A6ncqSUkJLKif-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fc1ScWfCSrpP2nkaMIbw-117" value="LowestPrice&amp;lt;携程" style="rhombus;whiteSpace=wrap;html=1;" parent="nK9u0oX0gmOxHQUqsbgI-74" vertex="1">
+        <mxCell id="Fc1ScWfCSrpP2nkaMIbw-117" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left;&quot;&gt;floorPrice&lt;/span&gt;&amp;lt;携程" style="rhombus;whiteSpace=wrap;html=1;" parent="nK9u0oX0gmOxHQUqsbgI-74" vertex="1">
           <mxGeometry x="4" y="355.5" width="101" height="43" as="geometry" />
         </mxCell>
         <mxCell id="CMpfSC7A6ncqSUkJLKif-3" value="系统问题&lt;br&gt;有货低价未报出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="nK9u0oX0gmOxHQUqsbgI-74" vertex="1">
@@ -787,6 +787,9 @@
               <mxPoint x="-3867" y="4306" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KMJsfHbyHkbpbXuXZqFe-1" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2894" y="4793" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
