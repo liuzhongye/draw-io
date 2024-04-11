@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T07:38:58.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vNhDYiP-o1tA2vYDyK4s" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T07:43:12.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yrpRO_AL_7bHSOLt4x_-" version="24.0.7" type="github">
   <diagram name="第 1 页" id="u_vAOpGsMa_A65YqHHI3">
     <mxGraphModel dx="5885" dy="-3292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
@@ -856,7 +856,7 @@
         <mxCell id="KMJsfHbyHkbpbXuXZqFe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="CMpfSC7A6ncqSUkJLKif-14" target="KMJsfHbyHkbpbXuXZqFe-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9QR-6WSmLVrbqDejWmz-1" value="C调用的是channel传的是Mobile，代表外网&lt;div&gt;&lt;br&gt;运价直连接口包括旗舰店和携程代运营&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="f9QR-6WSmLVrbqDejWmz-1" value="C调用的是channel传的是Mobile，代表外网&lt;div&gt;&lt;br&gt;运价直连接口包括旗舰店航司直连和携程代运营分销接口&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="-3075" y="4154" width="303" height="95" as="geometry" />
         </mxCell>
       </root>
