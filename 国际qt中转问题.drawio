@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T06:31:46.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="k2aGyJLCQkXrP8jE-5Mc" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T06:32:57.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="iNg7yFvWRhgCzR3oblvz" version="24.2.3" type="github">
   <diagram name="第 1 页" id="u_vAOpGsMa_A65YqHHI3">
-    <mxGraphModel dx="5798" dy="-3254" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
+    <mxGraphModel dx="5701" dy="-3306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -844,7 +844,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="87Es38IUuHPzmQBuRoQn-5" value="中转包/拼接 VS 携程代运营 处理阶段" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-4054" y="4277" width="368" height="755" as="geometry">
+          <mxGeometry x="-4050" y="4277" width="364" height="755" as="geometry">
             <mxRectangle x="-806" y="3841" width="95" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
