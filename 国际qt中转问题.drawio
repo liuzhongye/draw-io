@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T06:32:57.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="iNg7yFvWRhgCzR3oblvz" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T06:37:30.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="y3GdVb61nDebSJ5n4Sx2" version="24.2.3" type="github">
   <diagram name="第 1 页" id="u_vAOpGsMa_A65YqHHI3">
-    <mxGraphModel dx="5701" dy="-3306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
+    <mxGraphModel dx="6916" dy="-2657" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nK9u0oX0gmOxHQUqsbgI-50" value="缺货分析阶段" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="-1600" y="4272" width="1058" height="847" as="geometry" />
+          <mxGeometry x="-1599" y="4276" width="765" height="845" as="geometry" />
         </mxCell>
         <mxCell id="D_FfMdJ6p0i8hThaexkr-1" value="启明星系统" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="nK9u0oX0gmOxHQUqsbgI-50" vertex="1">
-          <mxGeometry x="-2448" y="4" width="3506" height="843" as="geometry" />
+          <mxGeometry x="-2448" y="4" width="3829" height="974" as="geometry" />
         </mxCell>
         <mxCell id="CMpfSC7A6ncqSUkJLKif-147" value="境内资源缺失" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
           <mxGeometry x="2673" y="470.5" width="111.5" height="41" as="geometry" />
@@ -190,7 +190,7 @@
           <mxGeometry x="2909" y="267" width="122" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="nK9u0oX0gmOxHQUqsbgI-34" value="包装问题分析" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
-          <mxGeometry x="3170" width="330" height="840" as="geometry" />
+          <mxGeometry x="3213" width="330" height="840" as="geometry" />
         </mxCell>
         <mxCell id="nK9u0oX0gmOxHQUqsbgI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="nK9u0oX0gmOxHQUqsbgI-34" source="nK9u0oX0gmOxHQUqsbgI-43" target="nK9u0oX0gmOxHQUqsbgI-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -273,7 +273,7 @@
           <mxGeometry x="51" y="53" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fc1ScWfCSrpP2nkaMIbw-42" value="WTT系统" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
-          <mxGeometry x="-3" y="754" width="2451" height="89" as="geometry" />
+          <mxGeometry x="-1" y="750" width="2449" height="89" as="geometry" />
         </mxCell>
         <mxCell id="Fc1ScWfCSrpP2nkaMIbw-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Fc1ScWfCSrpP2nkaMIbw-42" source="Fc1ScWfCSrpP2nkaMIbw-45" target="Fc1ScWfCSrpP2nkaMIbw-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
