@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T03:00:31.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="pcaLSCM6CYNbzDjz9B4h" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-19T09:34:23.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JRzL6DECC_QS2Nm418DI" version="24.2.5" type="github" pages="2">
   <diagram name="第 1 页" id="u_vAOpGsMa_A65YqHHI3">
-    <mxGraphModel dx="6026" dy="-3146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
+    <mxGraphModel dx="5469" dy="-3569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
         <mxCell id="csmRU1v5mNoPCmEhH9a8-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="D_FfMdJ6p0i8hThaexkr-1" source="CMpfSC7A6ncqSUkJLKif-66" target="csmRU1v5mNoPCmEhH9a8-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CMpfSC7A6ncqSUkJLKif-66" value="分销渠道被旗舰店过滤" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
+        <mxCell id="CMpfSC7A6ncqSUkJLKif-66" value="被系统过滤" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
           <mxGeometry x="2704" y="47.25" width="89" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="CMpfSC7A6ncqSUkJLKif-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="D_FfMdJ6p0i8hThaexkr-1" source="Fc1ScWfCSrpP2nkaMIbw-38" target="CMpfSC7A6ncqSUkJLKif-66" edge="1">
