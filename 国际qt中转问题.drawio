@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T02:54:49.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xiAfAiAbHiOwkq_nMSrk" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-19T02:56:06.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3uR74eSQq6riwIxdeuhW" version="24.2.5" type="github" pages="2">
   <diagram name="第 1 页" id="u_vAOpGsMa_A65YqHHI3">
-    <mxGraphModel dx="6026" dy="-3146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
+    <mxGraphModel dx="5747" dy="-3292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,10 +13,10 @@
         <mxCell id="CMpfSC7A6ncqSUkJLKif-147" value="代理商问题&lt;br&gt;境内资源缺失" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
           <mxGeometry x="2671" y="542.5" width="111.5" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="OtwuBgD6VVIhVlA_5guh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="D_FfMdJ6p0i8hThaexkr-1" source="f9QR-6WSmLVrbqDejWmz-2" target="f9QR-6WSmLVrbqDejWmz-13">
+        <mxCell id="OtwuBgD6VVIhVlA_5guh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="D_FfMdJ6p0i8hThaexkr-1" source="f9QR-6WSmLVrbqDejWmz-2" target="f9QR-6WSmLVrbqDejWmz-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OtwuBgD6VVIhVlA_5guh-5" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OtwuBgD6VVIhVlA_5guh-4">
+        <mxCell id="OtwuBgD6VVIhVlA_5guh-5" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OtwuBgD6VVIhVlA_5guh-4" vertex="1" connectable="0">
           <mxGeometry x="-0.3299" relative="1" as="geometry">
             <mxPoint x="-8" y="1" as="offset" />
           </mxGeometry>
@@ -24,15 +24,15 @@
         <mxCell id="f9QR-6WSmLVrbqDejWmz-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;调用底层旗舰店接口&lt;br&gt;能获取到？&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
           <mxGeometry x="2667" y="206.82999999999998" width="117" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="OtwuBgD6VVIhVlA_5guh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D_FfMdJ6p0i8hThaexkr-1" source="f9QR-6WSmLVrbqDejWmz-3" target="OtwuBgD6VVIhVlA_5guh-1">
+        <mxCell id="OtwuBgD6VVIhVlA_5guh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="D_FfMdJ6p0i8hThaexkr-1" source="f9QR-6WSmLVrbqDejWmz-3" target="OtwuBgD6VVIhVlA_5guh-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OtwuBgD6VVIhVlA_5guh-3" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OtwuBgD6VVIhVlA_5guh-2">
+        <mxCell id="OtwuBgD6VVIhVlA_5guh-3" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OtwuBgD6VVIhVlA_5guh-2" vertex="1" connectable="0">
           <mxGeometry x="-0.1102" y="1" relative="1" as="geometry">
             <mxPoint x="-9" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OtwuBgD6VVIhVlA_5guh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D_FfMdJ6p0i8hThaexkr-1" source="f9QR-6WSmLVrbqDejWmz-3" target="OtwuBgD6VVIhVlA_5guh-8">
+        <mxCell id="OtwuBgD6VVIhVlA_5guh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="D_FfMdJ6p0i8hThaexkr-1" source="f9QR-6WSmLVrbqDejWmz-3" target="OtwuBgD6VVIhVlA_5guh-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f9QR-6WSmLVrbqDejWmz-3" value="旗舰店报价接口&lt;br&gt;来源航司接口?" style="rhombus;whiteSpace=wrap;html=1;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
@@ -217,10 +217,10 @@
           <mxGeometry x="2927" y="25" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="csmRU1v5mNoPCmEhH9a8-94" value="三级：记录为&lt;br&gt;代运营缺失低价" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
-          <mxGeometry x="3051" y="51.25" width="105" height="29.5" as="geometry" />
+          <mxGeometry x="3051" y="51.25" width="141" height="26.75" as="geometry" />
         </mxCell>
-        <mxCell id="csmRU1v5mNoPCmEhH9a8-100" value="三级：记录携程代运营&lt;br&gt;有优势" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
-          <mxGeometry x="2909" y="149" width="122" height="33.5" as="geometry" />
+        <mxCell id="csmRU1v5mNoPCmEhH9a8-100" value="三级：携程代运营是低价" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
+          <mxGeometry x="2909" y="149" width="147" height="35" as="geometry" />
         </mxCell>
         <mxCell id="nK9u0oX0gmOxHQUqsbgI-34" value="包装问题分析" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
           <mxGeometry x="3215" y="5" width="353" height="842" as="geometry" />
@@ -450,10 +450,10 @@
         <mxCell id="vpQr9YRG5N6dITmPgZd--218" value="不同pos地/汇率问题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
           <mxGeometry x="3098" y="541.5" width="90" height="36.75" as="geometry" />
         </mxCell>
-        <mxCell id="OtwuBgD6VVIhVlA_5guh-1" value="取自航司接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="D_FfMdJ6p0i8hThaexkr-1">
+        <mxCell id="OtwuBgD6VVIhVlA_5guh-1" value="取自航司接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
           <mxGeometry x="2874" y="295" width="76" height="34.67" as="geometry" />
         </mxCell>
-        <mxCell id="OtwuBgD6VVIhVlA_5guh-8" value="取自ATPCO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="D_FfMdJ6p0i8hThaexkr-1">
+        <mxCell id="OtwuBgD6VVIhVlA_5guh-8" value="取自ATPCO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
           <mxGeometry x="3040" y="215.49999999999986" width="76" height="34.67" as="geometry" />
         </mxCell>
         <mxCell id="nK9u0oX0gmOxHQUqsbgI-1" value="预处理阶段" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
