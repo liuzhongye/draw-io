@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T12:09:04.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qrrx8aNkEztt5NgP_Inf" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-22T13:11:25.573Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="jy5OMd3GWfYJ1PmrS5vh" version="24.2.5" type="github" pages="2">
   <diagram name="第 1 页" id="u_vAOpGsMa_A65YqHHI3">
-    <mxGraphModel dx="5637" dy="-3410" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
+    <mxGraphModel dx="5439" dy="-3504" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,6 +34,11 @@
         </mxCell>
         <mxCell id="OtwuBgD6VVIhVlA_5guh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="D_FfMdJ6p0i8hThaexkr-1" source="f9QR-6WSmLVrbqDejWmz-3" target="OtwuBgD6VVIhVlA_5guh-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VxjROa08T7pe_1a4MyOw-7" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OtwuBgD6VVIhVlA_5guh-9">
+          <mxGeometry x="0.1996" relative="1" as="geometry">
+            <mxPoint x="-15" y="-9" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="f9QR-6WSmLVrbqDejWmz-3" value="旗舰店报价接口&lt;br&gt;来源航司接口?" style="rhombus;whiteSpace=wrap;html=1;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
           <mxGeometry x="2843" y="206.56" width="138" height="52.54" as="geometry" />
