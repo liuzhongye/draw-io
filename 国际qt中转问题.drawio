@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T09:42:23.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="92eDO078PqLgFukKm2PE" version="24.4.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-10T09:45:55.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="miExFMZgQ7CoU0GbvftF" version="24.4.10" type="github" pages="3">
   <diagram name="1.中转问题归因流程图" id="u_vAOpGsMa_A65YqHHI3">
     <mxGraphModel dx="7395" dy="-2169" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
@@ -1461,11 +1461,33 @@
         <mxCell id="hel0_4rVC5D8KwTAJuSI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hel0_4rVC5D8KwTAJuSI-2" target="hel0_4rVC5D8KwTAJuSI-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8yJNaQh40vESuZSb4MR1-3" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hel0_4rVC5D8KwTAJuSI-5">
+          <mxGeometry x="-0.2479" y="-1" relative="1" as="geometry">
+            <mxPoint x="-5" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8yJNaQh40vESuZSb4MR1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hel0_4rVC5D8KwTAJuSI-2" target="8yJNaQh40vESuZSb4MR1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8yJNaQh40vESuZSb4MR1-4" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8yJNaQh40vESuZSb4MR1-2">
+          <mxGeometry x="-0.6275" y="2" relative="1" as="geometry">
+            <mxPoint x="4" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hel0_4rVC5D8KwTAJuSI-2" value="Q售价&amp;gt;C售价" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="599" width="91" height="46" as="geometry" />
         </mxCell>
         <mxCell id="hel0_4rVC5D8KwTAJuSI-4" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="670" width="61" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="8yJNaQh40vESuZSb4MR1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8yJNaQh40vESuZSb4MR1-1" target="8yJNaQh40vESuZSb4MR1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8yJNaQh40vESuZSb4MR1-1" value="Q票面价&amp;lt;C票面价" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="600" width="104" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8yJNaQh40vESuZSb4MR1-7" value="营销问题分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="674" width="84" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
