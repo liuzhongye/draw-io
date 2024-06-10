@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T09:19:17.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="d4kT5XlAK1KN-YJMS_pJ" version="24.4.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-10T09:22:10.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="FOVvjk9aaGhVSPVUf2wh" version="24.4.10" type="github" pages="3">
   <diagram name="1.中转问题归因流程图" id="u_vAOpGsMa_A65YqHHI3">
     <mxGraphModel dx="7395" dy="-2169" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
@@ -1444,6 +1444,14 @@
         <mxCell id="EOYy560998Q8Mj3qRxQt-33" value="&lt;span style=&quot;text-align: start; background-color: rgb(255, 255, 255); font-size: 14px; font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; color: rgba(0, 0, 0, 0.65);&quot;&gt;IBE(searchone)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="1562" width="177" height="34" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eXtE_iJ0QhiU_0GJTyp-" name="3.劣势归因简要图">
+    <mxGraphModel dx="1647" dy="1007" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
