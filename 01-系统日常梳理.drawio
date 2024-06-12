@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T04:01:21.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="aVLXaR23k-0FoYx-8Tn7" version="24.5.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-12T04:03:09.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="1CkEA-FPNs8JV7vwxeZk" version="24.5.2" type="github" pages="5">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="28758" dy="14439" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -4905,17 +4905,17 @@
             <mxRectangle width="438" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-142" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;300W&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-140">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-142" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;420&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;W&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-140">
           <mxGeometry x="438" width="116" height="41" as="geometry">
             <mxRectangle width="116" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-143" value="9K" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-140">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-143" value="13k" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-140">
           <mxGeometry x="554" width="87" height="41" as="geometry">
             <mxRectangle width="87" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-144" value="shopping运价" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-140">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-144" value="单程av" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-140">
           <mxGeometry x="641" width="111" height="41" as="geometry">
             <mxRectangle width="111" height="41" as="alternateBounds" />
           </mxGeometry>
@@ -4923,22 +4923,22 @@
         <mxCell id="Hb3EKqM9Kt2BEGPaimlP-145" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-134">
           <mxGeometry y="111" width="752" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-146" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.ibeplus.api.itf.IAirAvailService.avWithWhole&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-145">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-146" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.ibeplus.api.itf.IAirAvailService.avWithWhole（国内）&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-145">
           <mxGeometry width="438" height="42" as="geometry">
             <mxRectangle width="438" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-147" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;86W&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-145">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-147" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;92&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;W&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-145">
           <mxGeometry x="438" width="116" height="42" as="geometry">
             <mxRectangle width="116" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-148" value="2.6K" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-145">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-148" value="2.8K" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-145">
           <mxGeometry x="554" width="87" height="42" as="geometry">
             <mxRectangle width="87" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-149" value="Nfn指令" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-145">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-149" value="国内中转av" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-145">
           <mxGeometry x="641" width="111" height="42" as="geometry">
             <mxRectangle width="111" height="42" as="alternateBounds" />
           </mxGeometry>
@@ -4946,22 +4946,22 @@
         <mxCell id="Hb3EKqM9Kt2BEGPaimlP-150" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-134">
           <mxGeometry y="153" width="752" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-151" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.ibeplus.api.itf.IAirAvailService.avWithWhole&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-150">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-151" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.ibeplus.api.itf.IAirAvailService.avWithWhole（国际）&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-150">
           <mxGeometry width="438" height="40" as="geometry">
             <mxRectangle width="438" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-152" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;24W&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-150">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-152" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;28W&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-150">
           <mxGeometry x="438" width="116" height="40" as="geometry">
             <mxRectangle width="116" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-153" value="800元" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-150">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-153" value="850元" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-150">
           <mxGeometry x="554" width="87" height="40" as="geometry">
             <mxRectangle width="87" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-154" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Nfd指令&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-150">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-154" value="国际中转av" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-150">
           <mxGeometry x="641" width="111" height="40" as="geometry">
             <mxRectangle width="111" height="40" as="alternateBounds" />
           </mxGeometry>
