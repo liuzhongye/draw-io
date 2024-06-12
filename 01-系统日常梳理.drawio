@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T03:47:05.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XeJRuh2avM0V4btz4zzn" version="24.5.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-12T03:58:14.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="HaLNCEmclXgGoH17ZPsl" version="24.5.2" type="github" pages="5">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="28758" dy="14439" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -4358,7 +4358,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Hb3EKqM9Kt2BEGPaimlP-1" value="f_farecore_storage 2024年6月11日统计" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="219" y="393" width="633.152720981174" height="270" as="geometry" />
+          <mxGeometry x="22" y="286" width="633.152720981174" height="270" as="geometry" />
         </mxCell>
         <mxCell id="Hb3EKqM9Kt2BEGPaimlP-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-1">
           <mxGeometry y="30" width="633.152720981174" height="40" as="geometry" />
@@ -4483,19 +4483,392 @@
             <mxRectangle width="368" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-35" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-33">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-35" value="2.4w" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-33">
           <mxGeometry x="368" width="98" height="40" as="geometry">
             <mxRectangle width="98" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-33">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-36" value="150元" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-33">
           <mxGeometry x="466" width="74" height="40" as="geometry">
             <mxRectangle width="74" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-37" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-33">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-37" value="用pid的nfd指令" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-33">
           <mxGeometry x="540" width="93" height="40" as="geometry">
             <mxRectangle width="93" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-38" value="f_inter_gds 2024年6月11日统计" style="shape=table;startSize=29;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="2" y="587" width="754" height="670.1500366210939" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-39" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
+          <mxGeometry y="29" width="754" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-40" value="&lt;b&gt;接口标识&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-39">
+          <mxGeometry width="506" height="40" as="geometry">
+            <mxRectangle width="506" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-41" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: left; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;调用总次数/天&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-39">
+          <mxGeometry x="506" width="97" height="40" as="geometry">
+            <mxRectangle width="97" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-42" value="成本/天" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-39">
+          <mxGeometry x="603" width="56" height="40" as="geometry">
+            <mxRectangle width="56" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-43" value="接口作用" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-39">
+          <mxGeometry x="659" width="95" height="40" as="geometry">
+            <mxRectangle width="95" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
+          <mxGeometry y="69" width="754" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-45" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.ibeplus.api.itf.IAirAvailService.avWithWhole&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-44">
+          <mxGeometry width="506" height="40" as="geometry">
+            <mxRectangle width="506" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-46" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;640W&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-44">
+          <mxGeometry x="506" width="97" height="40" as="geometry">
+            <mxRectangle width="97" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-47" value="20k" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-44">
+          <mxGeometry x="603" width="56" height="40" as="geometry">
+            <mxRectangle width="56" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-48" value="单程中转，往返&lt;br&gt;过滤C关仓运价" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-44">
+          <mxGeometry x="659" width="95" height="40" as="geometry">
+            <mxRectangle width="95" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-49" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
+          <mxGeometry y="109" width="754" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-50" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.ibeplus.api.itf.IFareService.searchOne&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-49">
+          <mxGeometry width="506" height="40" as="geometry">
+            <mxRectangle width="506" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-51" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;280&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;W&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-49">
+          <mxGeometry x="506" width="97" height="40" as="geometry">
+            <mxRectangle width="97" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-52" value="8.3k" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-49">
+          <mxGeometry x="603" width="56" height="40" as="geometry">
+            <mxRectangle width="56" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-53" value="ibe的私有运价" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-49">
+          <mxGeometry x="659" width="95" height="40" as="geometry">
+            <mxRectangle width="95" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-54" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
+          <mxGeometry y="149" width="754" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-55" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.ibeplus.api.itf.IAvRealTimeService.avRealTime&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-54">
+          <mxGeometry width="506" height="41" as="geometry">
+            <mxRectangle width="506" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-56" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;30W&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-54">
+          <mxGeometry x="506" width="97" height="41" as="geometry">
+            <mxRectangle width="97" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-57" value="1k" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-54">
+          <mxGeometry x="603" width="56" height="41" as="geometry">
+            <mxRectangle width="56" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-58" value="单程验仓" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-54">
+          <mxGeometry x="659" width="95" height="41" as="geometry">
+            <mxRectangle width="95" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-59" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
+          <mxGeometry y="190" width="754" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-60" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.pidshare.global.api.service.PidShareService.ig&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-59">
+          <mxGeometry width="506" height="41" as="geometry">
+            <mxRectangle width="506" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-61" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;1.8w&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-59">
+          <mxGeometry x="506" width="97" height="41" as="geometry">
+            <mxRectangle width="97" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-62" value="60元" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-59">
+          <mxGeometry x="603" width="56" height="41" as="geometry">
+            <mxRectangle width="56" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-63" value="取价" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-59">
+          <mxGeometry x="659" width="95" height="41" as="geometry">
+            <mxRectangle width="95" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-64" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
+          <mxGeometry y="231" width="754" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-65" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.ibeplus.api.itf.IAirfarePriceService.airfarePrice&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-64">
+          <mxGeometry width="506" height="40" as="geometry">
+            <mxRectangle width="506" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-66" value="2.4w" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-64">
+          <mxGeometry x="506" width="97" height="40" as="geometry">
+            <mxRectangle width="97" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-67" value="150元" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-64">
+          <mxGeometry x="603" width="56" height="40" as="geometry">
+            <mxRectangle width="56" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-68" value="用pid的nfd指令" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-64">
+          <mxGeometry x="659" width="95" height="40" as="geometry">
+            <mxRectangle width="95" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-69" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
+          <mxGeometry y="271" width="754" height="41" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.pidshare.global.api.service.SsService.ssList&lt;/span&gt;" link="&#xa;&lt;table style=&quot;box-sizing: border-box; border-spacing: 0px; border-collapse: collapse !important; background-color: rgb(255, 255, 255); width: 2536.46px; max-width: 100%; margin-bottom: 0px !important; border-bottom: 1px solid rgb(221, 221, 221); border-radius: 1px; padding: 8px; color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin-top: -82px;&quot; class=&quot;table table-hover table-striped&quot; id=&quot;js-tableList&quot;&gt;&lt;tbody style=&quot;box-sizing: border-box;&quot;&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;3&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;com.qunar.pidshare.global.api.service.PidShareService.ig&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;f_inter_gds&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;166643&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;1535.394&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;4&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;com.qunar.ibeplus.api.itf.IAirfarePriceService.airfarePrice&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;国际&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;f_inter_gds&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;61386&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;184.158&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;5&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;com.qunar.pidshare.global.api.service.SsService.ssList&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;国际&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;f_inter_gds&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;59240&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;355.44&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;6&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;com.qunar.pidshare.common.api.service.QteService.qteXsfsqBySession&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;f_inter_gds&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;40525&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;386.97&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;7&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;com.qunar.pidshare.global.api.service.PnrRealService.realQueryPnrByPid&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;国际&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;f_inter_gds&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;21560&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;405.69&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;8&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;com.qunar.pidshare.global.api.service.SsService.ssList&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;f_inter_gds&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;20120&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;120.72&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;9&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;com.qunar.ibeplus.api.itf.IRtPnrService.rt&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;f_inter_gds&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;12578&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;37.734&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;10&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;com.qunar.ibeplus.api.itf.IAirBookOrderService.bookOrder&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;国际&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;f_inter_gds&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;9564&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;28.692&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;11&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;com.qunar.pidshare.common.api.service.PnrService.createPnrByPid&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;国际&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;f_inter_gds&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;6129&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;79.11&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;12&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;com.qunar.pidshare.global.api.service.PnrRealService.realQueryPnrBySessionID&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;国际&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;f_inter_gds&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;4412&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;50.784&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;13&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;com.qunar.pidshare.global.api.service.PnrRealService.realXePnrBySessionID&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;f_inter_gds&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;4358&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;26.148&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;14&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;com.qunar.pidshare.common.api.service.QteService.xsfsiXsfsq&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;f_inter_gds&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;2400&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;22.872&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;15&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;com.qunar.ibeplus.api.itf.IAirBookModifyService_D.airBookModifyD&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;f_inter_gds&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;2226&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;6.678&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;16&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;com.qunar.pidshare.common.api.service.PnrService.createPnrByPid&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;f_inter_gds&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;2137&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;46.446&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;17&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;com.qunar.ibeplus.api.itf.IAirBookOrderService.bookOrder&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;f_inter_gds&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;1267&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221);&quot;&gt;3.801&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;18&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;com.qunar.pidshare.global.api.service.PnrRealService.realQueryPnrBySessionID&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;f_inter_gds&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;253&lt;/td&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 1px solid rgb(221, 221, 221); line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(249, 249, 249);&quot;&gt;4.794&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; data-index=&quot;19&quot;&gt;&lt;td style=&quot;box-sizing: border-box; padding: 8px; margin: 0px; vertical-align: top; border-left: 0px; line-height: 1.42857; border-top: 1px solid rgb(221, 221, 221); background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.pidshare.global.api.service.PnrRealService.realQueryPnrByPid&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&#xa;&#xa;" id="Hb3EKqM9Kt2BEGPaimlP-70">
+          <mxCell style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-69">
+            <mxGeometry width="506" height="41" as="geometry">
+              <mxRectangle width="506" height="41" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-71" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-69">
+          <mxGeometry x="506" width="97" height="41" as="geometry">
+            <mxRectangle width="97" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-72" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-69">
+          <mxGeometry x="603" width="56" height="41" as="geometry">
+            <mxRectangle width="56" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-73" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-69">
+          <mxGeometry x="659" width="95" height="41" as="geometry">
+            <mxRectangle width="95" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-74" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
+          <mxGeometry y="312" width="754" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-75" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.pidshare.common.api.service.QteService.qteXsfsqBySession&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-74">
+          <mxGeometry width="506" height="40" as="geometry">
+            <mxRectangle width="506" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-76" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-74">
+          <mxGeometry x="506" width="97" height="40" as="geometry">
+            <mxRectangle width="97" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-77" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-74">
+          <mxGeometry x="603" width="56" height="40" as="geometry">
+            <mxRectangle width="56" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-78" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-74">
+          <mxGeometry x="659" width="95" height="40" as="geometry">
+            <mxRectangle width="95" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-79" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
+          <mxGeometry y="352" width="754" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-80" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.pidshare.global.api.service.PnrRealService.realQueryPnrByPid&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-79">
+          <mxGeometry width="506" height="40" as="geometry">
+            <mxRectangle width="506" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-81" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-79">
+          <mxGeometry x="506" width="97" height="40" as="geometry">
+            <mxRectangle width="97" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-82" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-79">
+          <mxGeometry x="603" width="56" height="40" as="geometry">
+            <mxRectangle width="56" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-83" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-79">
+          <mxGeometry x="659" width="95" height="40" as="geometry">
+            <mxRectangle width="95" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-84" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
+          <mxGeometry y="392" width="754" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-85" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.ibeplus.api.itf.IRtPnrService.rt&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-84">
+          <mxGeometry width="506" height="41" as="geometry">
+            <mxRectangle width="506" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-86" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-84">
+          <mxGeometry x="506" width="97" height="41" as="geometry">
+            <mxRectangle width="97" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-87" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-84">
+          <mxGeometry x="603" width="56" height="41" as="geometry">
+            <mxRectangle width="56" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-88" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-84">
+          <mxGeometry x="659" width="95" height="41" as="geometry">
+            <mxRectangle width="95" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-89" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
+          <mxGeometry y="433" width="754" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-90" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.ibeplus.api.itf.IAirBookOrderService.bookOrder&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-89">
+          <mxGeometry width="506" height="40" as="geometry">
+            <mxRectangle width="506" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-91" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-89">
+          <mxGeometry x="506" width="97" height="40" as="geometry">
+            <mxRectangle width="97" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-92" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-89">
+          <mxGeometry x="603" width="56" height="40" as="geometry">
+            <mxRectangle width="56" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-93" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-89">
+          <mxGeometry x="659" width="95" height="40" as="geometry">
+            <mxRectangle width="95" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-94" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
+          <mxGeometry y="473" width="754" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-95" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.pidshare.common.api.service.PnrService.createPnrByPid&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-94">
+          <mxGeometry width="506" height="40" as="geometry">
+            <mxRectangle width="506" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-96" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-94">
+          <mxGeometry x="506" width="97" height="40" as="geometry">
+            <mxRectangle width="97" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-97" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-94">
+          <mxGeometry x="603" width="56" height="40" as="geometry">
+            <mxRectangle width="56" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-98" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-94">
+          <mxGeometry x="659" width="95" height="40" as="geometry">
+            <mxRectangle width="95" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-99" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
+          <mxGeometry y="513" width="754" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-100" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.pidshare.global.api.service.PnrRealService.realQueryPnrBySessionID&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-99">
+          <mxGeometry width="506" height="40" as="geometry">
+            <mxRectangle width="506" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-101" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-99">
+          <mxGeometry x="506" width="97" height="40" as="geometry">
+            <mxRectangle width="97" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-102" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-99">
+          <mxGeometry x="603" width="56" height="40" as="geometry">
+            <mxRectangle width="56" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-103" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-99">
+          <mxGeometry x="659" width="95" height="40" as="geometry">
+            <mxRectangle width="95" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-104" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
+          <mxGeometry y="553" width="754" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-105" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.pidshare.global.api.service.PnrRealService.realXePnrBySessionID&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-104">
+          <mxGeometry width="506" height="39" as="geometry">
+            <mxRectangle width="506" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-106" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-104">
+          <mxGeometry x="506" width="97" height="39" as="geometry">
+            <mxRectangle width="97" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-107" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-104">
+          <mxGeometry x="603" width="56" height="39" as="geometry">
+            <mxRectangle width="56" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-108" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-104">
+          <mxGeometry x="659" width="95" height="39" as="geometry">
+            <mxRectangle width="95" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-129" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
+          <mxGeometry y="592" width="754" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-130" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.pidshare.common.api.service.QteService.xsfsiXsfsq&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-129">
+          <mxGeometry width="506" height="39" as="geometry">
+            <mxRectangle width="506" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-131" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-129">
+          <mxGeometry x="506" width="97" height="39" as="geometry">
+            <mxRectangle width="97" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-132" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-129">
+          <mxGeometry x="603" width="56" height="39" as="geometry">
+            <mxRectangle width="56" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-133" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-129">
+          <mxGeometry x="659" width="95" height="39" as="geometry">
+            <mxRectangle width="95" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-124" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
+          <mxGeometry y="631" width="754" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-125" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(245, 245, 245);&quot;&gt;com.qunar.ibeplus.api.itf.IAirBookModifyService_D.airBookModifyD&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-124">
+          <mxGeometry width="506" height="39" as="geometry">
+            <mxRectangle width="506" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-126" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-124">
+          <mxGeometry x="506" width="97" height="39" as="geometry">
+            <mxRectangle width="97" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-127" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-124">
+          <mxGeometry x="603" width="56" height="39" as="geometry">
+            <mxRectangle width="56" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-128" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-124">
+          <mxGeometry x="659" width="95" height="39" as="geometry">
+            <mxRectangle width="95" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
