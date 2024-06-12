@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T04:03:54.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="KSXR43hR2n-4oizHfDCg" version="24.5.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-12T04:04:17.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="0etHH1ZF565sM6KTA8W2" version="24.5.2" type="github" pages="5">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="28758" dy="14439" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -4357,7 +4357,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-1" value="f_farecore_storage 2024年6月11日统计" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-1" value="f_farecore_storage 2024年6月11日统计" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="4" y="232" width="752" height="274" as="geometry" />
         </mxCell>
         <mxCell id="Hb3EKqM9Kt2BEGPaimlP-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-1">
@@ -4498,7 +4498,7 @@
             <mxRectangle width="111" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-38" value="f_inter_gds 2024年6月11日统计" style="shape=table;startSize=29;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-38" value="f_inter_gds 2024年6月11日统计" style="shape=table;startSize=29;container=1;collapsible=0;childLayout=tableLayout;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2" y="587" width="754" height="670.1500366210939" as="geometry" />
         </mxCell>
         <mxCell id="Hb3EKqM9Kt2BEGPaimlP-39" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-38">
@@ -4871,7 +4871,7 @@
             <mxRectangle width="95" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-134" value="f_av_proxy_pid 2024年6月11日统计" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="Hb3EKqM9Kt2BEGPaimlP-134" value="f_av_proxy_pid 2024年6月11日统计" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3" y="4" width="752" height="193" as="geometry" />
         </mxCell>
         <mxCell id="Hb3EKqM9Kt2BEGPaimlP-135" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Hb3EKqM9Kt2BEGPaimlP-134">
