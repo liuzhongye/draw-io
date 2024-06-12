@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T08:16:41.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Kw3Ns-Xke-TItHt4UBKJ" version="24.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-12T08:17:44.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="QqXVEnljH6an08NzBeTb" version="24.5.3" type="github" pages="3">
   <diagram name="1.中转问题归因流程图" id="u_vAOpGsMa_A65YqHHI3">
     <mxGraphModel dx="7395" dy="-2169" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
@@ -1704,16 +1704,16 @@
           <mxGeometry x="361" y="1080" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ySuWPjOQZwxvuT50Y1Rg-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="416" y="1049" width="8" height="101" as="geometry" />
+          <mxGeometry x="416" y="1023" width="8" height="127" as="geometry" />
         </mxCell>
         <mxCell id="ySuWPjOQZwxvuT50Y1Rg-24" value="关注AI推荐进度&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;找连晨&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="439" y="1028" width="143" height="34" as="geometry" />
+          <mxGeometry x="434.5" y="1006" width="143" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ySuWPjOQZwxvuT50Y1Rg-25" value="list和Ota拆分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="434.5" y="1082.5" width="143" height="34" as="geometry" />
+          <mxGeometry x="434.5" y="1062" width="143" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ySuWPjOQZwxvuT50Y1Rg-26" value="ota休息室，排序问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="434.5" y="1135" width="143" height="34" as="geometry" />
+          <mxGeometry x="434.5" y="1127" width="143" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
