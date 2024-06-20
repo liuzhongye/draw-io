@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T02:13:32.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Ru54NYqjwtjV9uP_EX3i" version="24.5.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-20T02:14:21.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SefnOLQ9oTILxC9CM84O" version="24.5.5" type="github" pages="3">
   <diagram name="1.中转问题归因流程图" id="u_vAOpGsMa_A65YqHHI3">
     <mxGraphModel dx="6758" dy="-2761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
@@ -1048,9 +1048,6 @@
         </mxCell>
         <mxCell id="87Es38IUuHPzmQBuRoQn-56" value="记录携程代运营&lt;br&gt;有优势" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="87Es38IUuHPzmQBuRoQn-5" vertex="1">
           <mxGeometry x="153" y="549" width="120" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="vpQr9YRG5N6dITmPgZd--227" value="TODO:&lt;br&gt;1.旗舰店是否走了缓存，能否穿透到航司，是否用了ATPCO -- 实时查航司，不用atpco&amp;nbsp;&lt;br&gt;2.运价来源的区分，GDS-WS走底层运价问题&lt;br&gt;3.TSK-NDC如何区分运价-海影&lt;div&gt;4.CTT视角&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-2662" y="4157" width="470" height="72" as="geometry" />
         </mxCell>
         <mxCell id="nK9u0oX0gmOxHQUqsbgI-34" value="包装问题分析" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="-639" y="4274.5" width="377" height="851" as="geometry" />
