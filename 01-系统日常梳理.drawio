@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T07:05:14.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="NoELRaSg0uwPpyCERvK4" version="24.6.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-04T07:44:31.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="T7tQkeo9FdhP9t2SZPRZ" version="24.6.4" type="github" pages="5">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
-    <mxGraphModel dx="28365" dy="14233" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
+    <mxGraphModel dx="27180" dy="13567" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DlL56Z82jBy6VeUNKoDw-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-26080" y="-4366" width="422" height="335" as="geometry" />
+        </mxCell>
         <mxCell id="zxThELI9k4F8F7LsiI_i-33" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-23835.24" y="-7363" width="453.24" height="371" as="geometry" />
         </mxCell>
@@ -3115,6 +3118,9 @@
         <mxCell id="DlL56Z82jBy6VeUNKoDw-23" value="1/2 rt往返航司&lt;br&gt;CZ、ZH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-26058.5" y="-4606" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DlL56Z82jBy6VeUNKoDw-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlL56Z82jBy6VeUNKoDw-27" target="DlL56Z82jBy6VeUNKoDw-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DlL56Z82jBy6VeUNKoDw-27" value="av&amp;amp;往返运价计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-25963.84" y="-4482" width="120.68" height="47" as="geometry" />
         </mxCell>
@@ -3125,19 +3131,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DlL56Z82jBy6VeUNKoDw-30" value="出发航班和返回航班叉乘计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-25960.05" y="-4396" width="135.05" height="33" as="geometry" />
+          <mxGeometry x="-25971.6" y="-4356" width="135.05" height="33" as="geometry" />
         </mxCell>
         <mxCell id="DlL56Z82jBy6VeUNKoDw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlL56Z82jBy6VeUNKoDw-31" target="DlL56Z82jBy6VeUNKoDw-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DlL56Z82jBy6VeUNKoDw-31" value="找&lt;font color=&quot;#fb1818&quot;&gt;出发航班&lt;/font&gt;开仓的运价最低价P1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-26034.25" y="-4320" width="135.05" height="33" as="geometry" />
+          <mxGeometry x="-26045.8" y="-4280" width="135.05" height="33" as="geometry" />
         </mxCell>
         <mxCell id="DlL56Z82jBy6VeUNKoDw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlL56Z82jBy6VeUNKoDw-32" target="DlL56Z82jBy6VeUNKoDw-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DlL56Z82jBy6VeUNKoDw-32" value="找&lt;font color=&quot;#fb0e0e&quot;&gt;返回航班&lt;/font&gt;开仓的运价最低价P2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-25845.13" y="-4320" width="135.05" height="33" as="geometry" />
+          <mxGeometry x="-25856.68" y="-4280" width="135.05" height="33" as="geometry" />
         </mxCell>
         <mxCell id="DlL56Z82jBy6VeUNKoDw-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlL56Z82jBy6VeUNKoDw-35" target="DlL56Z82jBy6VeUNKoDw-42">
           <mxGeometry relative="1" as="geometry" />
@@ -3151,16 +3157,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DlL56Z82jBy6VeUNKoDw-35" value="P1=P2?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-25915" y="-4245" width="80" height="80" as="geometry" />
+          <mxGeometry x="-25926.55" y="-4205" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DlL56Z82jBy6VeUNKoDw-40" value="最终价价格=P1=P2&lt;br&gt;去的价格=1/2 P1&lt;br&gt;返的价格=1/2 P1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-26057" y="-4133" width="142" height="52" as="geometry" />
+          <mxGeometry x="-26068.55" y="-4093" width="142" height="52" as="geometry" />
         </mxCell>
         <mxCell id="DlL56Z82jBy6VeUNKoDw-42" value="最终价价格=goPrice+backPrice&lt;br&gt;去的价格goPrice=1/2 P1&lt;br&gt;返的价格backPrice=1/2 P2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-25854.45" y="-4131" width="197.5" height="50" as="geometry" />
+          <mxGeometry x="-25866" y="-4091" width="197.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DlL56Z82jBy6VeUNKoDw-44" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-25826.52" y="-4225" width="30" height="26" as="geometry" />
+          <mxGeometry x="-25838.07" y="-4185" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DlL56Z82jBy6VeUNKoDw-50" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;1/2 rt类型&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-26079.02" y="-4366" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
