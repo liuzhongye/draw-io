@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T04:04:17.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="0etHH1ZF565sM6KTA8W2" version="24.5.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-04T03:28:27.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Nm_zwl-MC9ZCq4NbQgC6" version="24.6.4" type="github" pages="5">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
-    <mxGraphModel dx="28758" dy="14439" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
+    <mxGraphModel dx="28365" dy="14233" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3042,6 +3042,49 @@
         </mxCell>
         <mxCell id="AD5Qh61V_6KUNaQKm6tF-53" value="其他原因(解析、IBE原因）&lt;br&gt;考虑禁售" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-26228.229999999996" y="-5767" width="160.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="DlL56Z82jBy6VeUNKoDw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlL56Z82jBy6VeUNKoDw-1" target="DlL56Z82jBy6VeUNKoDw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlL56Z82jBy6VeUNKoDw-1" value="国内往返接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-25963.5" y="-5258" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlL56Z82jBy6VeUNKoDw-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;com.qunar.flight.farecore.provider.service.rt.RTFareInfoQueryServiceImpl#queryFareInfoV3&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-26306" y="-5329" width="1074" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="DlL56Z82jBy6VeUNKoDw-5" value="参数校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-25962.5" y="-5155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlL56Z82jBy6VeUNKoDw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlL56Z82jBy6VeUNKoDw-8" target="DlL56Z82jBy6VeUNKoDw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlL56Z82jBy6VeUNKoDw-8" value="Google&lt;br&gt;LoadingCache&lt;br&gt;3分钟缓存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-25952.36" y="-5050" width="99.72" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="DlL56Z82jBy6VeUNKoDw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DlL56Z82jBy6VeUNKoDw-5" target="DlL56Z82jBy6VeUNKoDw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlL56Z82jBy6VeUNKoDw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlL56Z82jBy6VeUNKoDw-12" target="DlL56Z82jBy6VeUNKoDw-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-25798.915485127767" y="-4886" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlL56Z82jBy6VeUNKoDw-16" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlL56Z82jBy6VeUNKoDw-13">
+          <mxGeometry x="-0.4084" y="-4" relative="1" as="geometry">
+            <mxPoint x="3" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlL56Z82jBy6VeUNKoDw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlL56Z82jBy6VeUNKoDw-12" target="DlL56Z82jBy6VeUNKoDw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlL56Z82jBy6VeUNKoDw-12" value="命中？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-25943.4" y="-4926" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DlL56Z82jBy6VeUNKoDw-14" value="返回上游结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-25803.06" y="-4913" width="94.73" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="DlL56Z82jBy6VeUNKoDw-17" value="实时算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-25950.600000000002" y="-4803" width="94.73" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
