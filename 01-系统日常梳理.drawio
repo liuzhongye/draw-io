@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T12:30:15.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_OJJS13BPiCoz4u1yRRl" version="24.6.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-08T12:37:34.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sKo-aLGk1piiQXDTV1qx" version="24.6.4" type="github" pages="5">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="29174" dy="14658" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -3625,19 +3625,19 @@
           <mxGeometry x="146.75" y="568" width="198.25" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Q5fHsrT8t_tqI3YeTj3C-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="489" y="547.5" width="29" height="69" as="geometry" />
+          <mxGeometry x="376" y="547.5" width="29" height="69" as="geometry" />
         </mxCell>
         <mxCell id="Q5fHsrT8t_tqI3YeTj3C-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q5fHsrT8t_tqI3YeTj3C-10" target="Q5fHsrT8t_tqI3YeTj3C-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q5fHsrT8t_tqI3YeTj3C-19" value="&lt;font color=&quot;#f90b0b&quot;&gt;LargeSys、Prcing&lt;/font&gt;---&amp;gt;CtripPolicy ---&amp;gt;&amp;nbsp;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;domain: *, posArea: *&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="528" y="529" width="341" height="35" as="geometry" />
+          <mxGeometry x="415" y="529" width="341" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Q5fHsrT8t_tqI3YeTj3C-20" value="&lt;font color=&quot;#fd0808&quot;&gt;CAmadeus、CAbacus、CGalileo&lt;/font&gt;--&amp;gt;CtripCachePolicy&amp;nbsp; ---&amp;gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;domain: *, posArea: posArea&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="565" width="513" height="25" as="geometry" />
+          <mxGeometry x="407" y="565" width="513" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Q5fHsrT8t_tqI3YeTj3C-21" value="&lt;font color=&quot;#f70202&quot;&gt;Eterm、Ibe.name、Sabre、Galileo、Amadeus、AmadeusMPIS&lt;/font&gt;---&amp;gt;GdsPolicy ---&amp;gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;domain: domain , posArea: posArea&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="528" y="599.5" width="664" height="25" as="geometry" />
+          <mxGeometry x="415" y="599.5" width="664" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
