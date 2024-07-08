@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T12:37:34.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sKo-aLGk1piiQXDTV1qx" version="24.6.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-08T12:37:46.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="FD2V-rtwDbD1LS0Dp1Oj" version="24.6.4" type="github" pages="5">
   <diagram id="onVwmR5etyYxUQcMz32u" name="01_国内运价&amp;av">
     <mxGraphModel dx="29174" dy="14658" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#f2f2f2" math="0" shadow="0">
       <root>
@@ -3391,7 +3391,7 @@
         </mxCell>
         <mxCell id="xHMZstjsNC8S8frlC2E9-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xHMZstjsNC8S8frlC2E9-3" target="xHMZstjsNC8S8frlC2E9-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="69.75" y="719" as="targetPoint" />
+            <mxPoint x="69.75" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xHMZstjsNC8S8frlC2E9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="xHMZstjsNC8S8frlC2E9-3" target="xHMZstjsNC8S8frlC2E9-15" edge="1">
@@ -3403,25 +3403,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xHMZstjsNC8S8frlC2E9-3" value="运价预搜索" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="23" y="621" width="93" height="26" as="geometry" />
+          <mxGeometry x="23" y="642" width="93" height="26" as="geometry" />
         </mxCell>
         <mxCell id="xHMZstjsNC8S8frlC2E9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" parent="1" source="xHMZstjsNC8S8frlC2E9-7" target="xHMZstjsNC8S8frlC2E9-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xHMZstjsNC8S8frlC2E9-7" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;拆分实时请求和缓存请求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
-          <mxGeometry x="160.25" y="624.5" width="115.75" height="20.5" as="geometry" />
+          <mxGeometry x="160.25" y="645.5" width="115.75" height="20.5" as="geometry" />
         </mxCell>
         <mxCell id="xHMZstjsNC8S8frlC2E9-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xHMZstjsNC8S8frlC2E9-12" target="xHMZstjsNC8S8frlC2E9-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xHMZstjsNC8S8frlC2E9-12" value="遍历" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="15" y="729" width="109.5" height="30" as="geometry" />
+          <mxGeometry x="15" y="750" width="109.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xHMZstjsNC8S8frlC2E9-13" value="是实时搜索？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="29.75" y="814" width="80" height="80" as="geometry" />
+          <mxGeometry x="29.75" y="835" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xHMZstjsNC8S8frlC2E9-15" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;直达av下载&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" parent="1" vertex="1">
-          <mxGeometry x="160.75" y="673" width="106.25" height="20" as="geometry" />
+          <mxGeometry x="160.75" y="694" width="106.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xQrBGMInmvZuvOwRv5oI-1" value="cache模块接口&lt;br&gt;(携程从各GDS缓存的shopping数据)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="975" y="-397.5" width="158" height="75" as="geometry" />
