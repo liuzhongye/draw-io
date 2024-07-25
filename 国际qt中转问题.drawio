@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T12:11:08.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="kkU1Q1lHA75l5gkR0SPr" version="24.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-25T07:10:33.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="XZbunrMwUyWLntzIFPfu" version="24.7.1" type="github" pages="4">
   <diagram name="1.中转问题归因流程图" id="u_vAOpGsMa_A65YqHHI3">
     <mxGraphModel dx="4547" dy="-3292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
@@ -1479,6 +1479,65 @@
         </mxCell>
         <mxCell id="MWMye-SbnIp41g2cotS6-7" value="1.对进度，观察劣势整体指标&lt;div&gt;2.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="667" y="706" width="175" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="C_3CxLhxuXYerTDb73tN" name="第 4 页">
+    <mxGraphModel dx="1123" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J4npplr96vDPF7t_bE7V-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J4npplr96vDPF7t_bE7V-2" target="J4npplr96vDPF7t_bE7V-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J4npplr96vDPF7t_bE7V-2" value="接到C报文 -1762ms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="159.5" y="450" width="136" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="J4npplr96vDPF7t_bE7V-6" value="反序列化成CBean&amp;nbsp;460ms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="159.5" y="554" width="170.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4npplr96vDPF7t_bE7V-12" value="merge处理 284ms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="159.5" y="620" width="143" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="J4npplr96vDPF7t_bE7V-13" value="c内部计算 1038ms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J4npplr96vDPF7t_bE7V-15" value="反序列化+网络耗时 1038ms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="180" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="J4npplr96vDPF7t_bE7V-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.637;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J4npplr96vDPF7t_bE7V-2" target="J4npplr96vDPF7t_bE7V-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J4npplr96vDPF7t_bE7V-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J4npplr96vDPF7t_bE7V-17" target="J4npplr96vDPF7t_bE7V-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J4npplr96vDPF7t_bE7V-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J4npplr96vDPF7t_bE7V-17" target="J4npplr96vDPF7t_bE7V-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J4npplr96vDPF7t_bE7V-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J4npplr96vDPF7t_bE7V-17" target="J4npplr96vDPF7t_bE7V-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J4npplr96vDPF7t_bE7V-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J4npplr96vDPF7t_bE7V-17" target="J4npplr96vDPF7t_bE7V-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J4npplr96vDPF7t_bE7V-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J4npplr96vDPF7t_bE7V-17" target="J4npplr96vDPF7t_bE7V-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J4npplr96vDPF7t_bE7V-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J4npplr96vDPF7t_bE7V-17" target="J4npplr96vDPF7t_bE7V-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J4npplr96vDPF7t_bE7V-17" value="RT总耗时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="507.5" width="60" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="J4npplr96vDPF7t_bE7V-21" value="中转处理 80ms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="159.5" y="680" width="143" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="J4npplr96vDPF7t_bE7V-23" value="merge低价callback处理 20ms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="159.5" y="740" width="180.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4npplr96vDPF7t_bE7V-25" value="根据域名查pcc 25ms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="159.5" y="376" width="136" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
