@@ -5309,7 +5309,7 @@
         <mxCell id="L-kzi_fKSa62D_mXS-q3-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ps1TLWSbKEi5VZU-fTVH-3" target="L-kzi_fKSa62D_mXS-q3-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ps1TLWSbKEi5VZU-fTVH-3" value="office 1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ps1TLWSbKEi5VZU-fTVH-3" value="office 1&lt;br&gt;一个office对应多个IP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="190" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ps1TLWSbKEi5VZU-fTVH-4" value="pid 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f4;strokeColor=#d6b656;" parent="1" vertex="1">
