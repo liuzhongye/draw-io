@@ -3299,7 +3299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RV_q1GDgvZnoU0LOU8Oa" name="02_国际运价">
-    <mxGraphModel dx="1101" dy="1687" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#fcfcfc" math="0" shadow="0">
+    <mxGraphModel dx="845" dy="1724" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#fcfcfc" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3890,6 +3890,32 @@
         </mxCell>
         <mxCell id="VriDljufTY0LNjeDenr5-67" value="从各GDS搜索&lt;br&gt;Amadeus、Sabre、中航信" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="578" y="1615" width="209" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="KgKa6a6vE4pvbD8wdzXT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SlES6RcslGZT9SgcoyIY-1" target="KgKa6a6vE4pvbD8wdzXT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SlES6RcslGZT9SgcoyIY-1" value="用户搜索某航线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="128" y="2435" width="118" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="KgKa6a6vE4pvbD8wdzXT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KgKa6a6vE4pvbD8wdzXT-2" target="KgKa6a6vE4pvbD8wdzXT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KgKa6a6vE4pvbD8wdzXT-7" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KgKa6a6vE4pvbD8wdzXT-5">
+          <mxGeometry x="-0.1582" y="-3" relative="1" as="geometry">
+            <mxPoint x="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgKa6a6vE4pvbD8wdzXT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KgKa6a6vE4pvbD8wdzXT-2" target="KgKa6a6vE4pvbD8wdzXT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KgKa6a6vE4pvbD8wdzXT-2" value="多直飞航线" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325.75" y="2425.5" width="155" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="KgKa6a6vE4pvbD8wdzXT-3" value="Q不再拼接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="2541" width="118" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="KgKa6a6vE4pvbD8wdzXT-8" value="拼接点计算服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="587" y="2435" width="118" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
