@@ -3749,6 +3749,39 @@
         <mxCell id="YcWZs2livQEXmB5h4Og7-37" value="Travelsky&lt;br&gt;（中航信）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="236.75" y="1504" width="91" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="VriDljufTY0LNjeDenr5-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VriDljufTY0LNjeDenr5-1" target="VriDljufTY0LNjeDenr5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VriDljufTY0LNjeDenr5-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1746" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VriDljufTY0LNjeDenr5-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VriDljufTY0LNjeDenr5-2" target="VriDljufTY0LNjeDenr5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VriDljufTY0LNjeDenr5-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VriDljufTY0LNjeDenr5-2" target="VriDljufTY0LNjeDenr5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VriDljufTY0LNjeDenr5-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VriDljufTY0LNjeDenr5-2" target="VriDljufTY0LNjeDenr5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VriDljufTY0LNjeDenr5-2" value="北京-伦敦&lt;br&gt;2024年10月1日" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316.75" y="1685" width="102" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VriDljufTY0LNjeDenr5-3" value="CZ673" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="528" y="1651" width="87" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="VriDljufTY0LNjeDenr5-4" value="CA851" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="528" y="1687" width="87" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="VriDljufTY0LNjeDenr5-5" value="北京-上海-伦敦" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="1825" width="118" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="VriDljufTY0LNjeDenr5-7" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="528" y="1723" width="87" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="VriDljufTY0LNjeDenr5-11" value="北京-上海-伦敦" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="1868" width="118" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
