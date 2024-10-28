@@ -4344,6 +4344,9 @@
         <mxCell id="VSFBkw_MA5P3sk5k1LnM-1" value="过滤逻辑责任链&lt;br&gt;ChannelRefreshSearchFilter -1 强刷请求&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;ChannelExcludeSearchFilter-- 0&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ChannelExistSearchFilter--2&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ChannelSpecificExcludeSearchFilter 3&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;RateLimitSearchFilter 4&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="483.75" y="699" width="240" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="VSFBkw_MA5P3sk5k1LnM-3" value="unit处理链&lt;br&gt;CombinePccHandleUnit -1&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;CacheHandleUnit-- 0&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;RateLimitHandleUnit--1&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;AirlineBlockHandleUnit&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;SentinelDegradeUnit&amp;nbsp; max&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="768" y="694" width="240" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
