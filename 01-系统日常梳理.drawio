@@ -4381,6 +4381,15 @@
         <mxCell id="SdV5Pb1zyvwJsnzl2nC0-8" value="实时搜索" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="658.5" y="860" width="109.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SdV5Pb1zyvwJsnzl2nC0-13" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;FilterConditionFilter_0&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="332.13" y="1477" width="172" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="SdV5Pb1zyvwJsnzl2nC0-15" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;TransferCityFilter_70&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="332.13" y="1561" width="172" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="SdV5Pb1zyvwJsnzl2nC0-16" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;TransferCityDifferentFilter_80&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="328" y="1639" width="172" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
