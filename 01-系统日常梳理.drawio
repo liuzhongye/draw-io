@@ -3299,7 +3299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RV_q1GDgvZnoU0LOU8Oa" name="02_国际运价">
-    <mxGraphModel dx="1268" dy="2150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#fcfcfc" math="0" shadow="0">
+    <mxGraphModel dx="2165" dy="2202" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#fcfcfc" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4396,13 +4396,13 @@
         <mxCell id="SdV5Pb1zyvwJsnzl2nC0-16" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;TransferCityDifferentFilter_80&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="45.870000000000005" y="1701" width="172" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="SdV5Pb1zyvwJsnzl2nC0-18" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;AccountCodeFilter_100&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="SdV5Pb1zyvwJsnzl2nC0-18" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;AccountCodeFilter_100&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#FF3B0A;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="419.62" y="1837" width="172" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="SdV5Pb1zyvwJsnzl2nC0-19" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;BlockPriceFilter_10&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="SdV5Pb1zyvwJsnzl2nC0-19" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;BlockPriceFilter_10&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#FF3B0A;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="426.12" y="1477" width="172" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="SdV5Pb1zyvwJsnzl2nC0-20" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;BrandServiceFilter_99&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="SdV5Pb1zyvwJsnzl2nC0-20" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;BrandServiceFilter_99&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#FF0000;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="419.62" y="1787" width="172" height="37" as="geometry" />
         </mxCell>
         <mxCell id="SdV5Pb1zyvwJsnzl2nC0-21" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;FakeCabinFilter_101&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
@@ -4426,20 +4426,20 @@
         <mxCell id="SdV5Pb1zyvwJsnzl2nC0-29" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;GvFilter_50&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="425.12" y="1636" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SdV5Pb1zyvwJsnzl2nC0-31" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;PrivateFareFilter_0&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="SdV5Pb1zyvwJsnzl2nC0-31" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;PrivateFareFilter_0&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#FF3B0A;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="625.12" y="1422" width="177" height="51" as="geometry" />
         </mxCell>
         <mxCell id="SdV5Pb1zyvwJsnzl2nC0-32" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;SearchConditionFilter_0&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="817" y="1422" width="177" height="51" as="geometry" />
+          <mxGeometry x="811" y="1422" width="177" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="SdV5Pb1zyvwJsnzl2nC0-33" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;SearchDomainFilter_Integer.max&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="SdV5Pb1zyvwJsnzl2nC0-33" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;SearchDomainFilter_Integer.max&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#FF3B0A;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="419.62" y="2017" width="225" height="42" as="geometry" />
         </mxCell>
         <mxCell id="SdV5Pb1zyvwJsnzl2nC0-35" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;SeatCountFilter_60&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="425.12" y="1695" width="161" height="43" as="geometry" />
         </mxCell>
         <mxCell id="SdV5Pb1zyvwJsnzl2nC0-36" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;TicketCarrierFilter_0&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="1418" width="177" height="51" as="geometry" />
+          <mxGeometry x="997" y="1422" width="177" height="51" as="geometry" />
         </mxCell>
         <mxCell id="SdV5Pb1zyvwJsnzl2nC0-37" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;ValidateFilter_-10&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="424.12" y="1375" width="172" height="37" as="geometry" />
