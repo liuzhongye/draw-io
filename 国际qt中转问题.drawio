@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="5">
   <diagram name="1.中转问题归因流程图" id="u_vAOpGsMa_A65YqHHI3">
-    <mxGraphModel dx="5798" dy="-2761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
+    <mxGraphModel dx="4992" dy="-3146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e8e8e8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -879,11 +879,6 @@
         <mxCell id="uZ_kVPfjI-btZe0j7NYy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="D_FfMdJ6p0i8hThaexkr-1" source="uZ_kVPfjI-btZe0j7NYy-4" target="uZ_kVPfjI-btZe0j7NYy-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uZ_kVPfjI-btZe0j7NYy-9" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uZ_kVPfjI-btZe0j7NYy-7" vertex="1" connectable="0">
-          <mxGeometry x="-0.0794" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uZ_kVPfjI-btZe0j7NYy-4" value="调用报价，解析NFT tag" style="rounded=1;whiteSpace=wrap;html=1;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
           <mxGeometry x="1499.75" y="321.69" width="133" height="31.75" as="geometry" />
         </mxCell>
@@ -895,7 +890,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uZ_kVPfjI-btZe0j7NYy-6" value="packagePrice&amp;lt;C价格" style="rhombus;whiteSpace=wrap;html=1;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
+        <mxCell id="uZ_kVPfjI-btZe0j7NYy-6" value="NFT存在且&lt;br&gt;packagePrice&amp;lt;C价格" style="rhombus;whiteSpace=wrap;html=1;" parent="D_FfMdJ6p0i8hThaexkr-1" vertex="1">
           <mxGeometry x="1495.75" y="390" width="142.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uZ_kVPfjI-btZe0j7NYy-403" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="D_FfMdJ6p0i8hThaexkr-1" source="uZ_kVPfjI-btZe0j7NYy-11" target="uZ_kVPfjI-btZe0j7NYy-139" edge="1">
