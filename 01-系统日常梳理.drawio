@@ -6074,7 +6074,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h9q-F2FQRjNFDf3CE0yY" name="06-pid">
-    <mxGraphModel dx="1373" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1136" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6250,8 +6250,11 @@
             <mxPoint x="-32" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="w5XZT-vkAWgXhd-kf-1m-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w5XZT-vkAWgXhd-kf-1m-2" target="w5XZT-vkAWgXhd-kf-1m-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w5XZT-vkAWgXhd-kf-1m-2" value="自动上线" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1860" width="110" height="50" as="geometry" />
+          <mxGeometry x="250" y="1850" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="w5XZT-vkAWgXhd-kf-1m-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w5XZT-vkAWgXhd-kf-1m-3" target="w5XZT-vkAWgXhd-kf-1m-4">
           <mxGeometry relative="1" as="geometry" />
@@ -6275,6 +6278,16 @@
         <mxCell id="w5XZT-vkAWgXhd-kf-1m-3" value="手工下线" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="119" y="1990" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="w5XZT-vkAWgXhd-kf-1m-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w5XZT-vkAWgXhd-kf-1m-4" target="w5XZT-vkAWgXhd-kf-1m-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="2134.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5XZT-vkAWgXhd-kf-1m-20" value="启用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w5XZT-vkAWgXhd-kf-1m-19">
+          <mxGeometry x="-0.372" y="2" relative="1" as="geometry">
+            <mxPoint x="19" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="w5XZT-vkAWgXhd-kf-1m-4" value="停用" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="119" y="2110" width="110" height="50" as="geometry" />
         </mxCell>
@@ -6288,6 +6301,14 @@
         </mxCell>
         <mxCell id="w5XZT-vkAWgXhd-kf-1m-6" value="手工上线" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="360" y="1990" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w5XZT-vkAWgXhd-kf-1m-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.693;entryY=0.934;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w5XZT-vkAWgXhd-kf-1m-6" target="w5XZT-vkAWgXhd-kf-1m-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w5XZT-vkAWgXhd-kf-1m-22" value="被别人顶掉，&lt;br&gt;执行操作时才发现，重新执行上线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w5XZT-vkAWgXhd-kf-1m-21">
+          <mxGeometry x="-0.1258" y="1" relative="1" as="geometry">
+            <mxPoint x="39" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
