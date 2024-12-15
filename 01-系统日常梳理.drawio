@@ -6397,7 +6397,7 @@
             <mxPoint x="145" y="114" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w5XZT-vkAWgXhd-kf-1m-57" value="禁用10min" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="w5XZT-vkAWgXhd-kf-1m-57" value="禁用&lt;br&gt;（10min）" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1370" y="2150" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
